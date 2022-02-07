@@ -38,8 +38,8 @@ pub fn get_words(first: &str, second: &str, third: &str, fourth: &str, fifth: &s
     log(&["fifth ",  fifth].concat());
     log(&["found ",  found].concat());
 
-    let guess = String::from([first, second, third, fourth, fifth].concat());
-    let contained = String::from(found);
+    let guess = String::from([first, second, third, fourth, fifth].concat()).to_lowercase();
+    let contained = String::from(found).to_lowercase();
     let results = get_words_letters_contained(&contained, get_words_letters_in_placed(&guess));
 
     log("get_words done");

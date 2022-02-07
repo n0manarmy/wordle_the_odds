@@ -84,9 +84,9 @@ mod tests {
 
     #[test]
     pub fn test_get_words_letters_none_contained() {
-        let letters: String = String::from("s\0\0\0\0");
+        let letters: String = String::from("\0l\0e\0");
         let words_found = get_words_letters_in_placed(&letters);
-        let contains = String::from("\0");
+        let contains = String::from("e");
         dbg!(get_words_letters_contained(&contains, words_found).len());
         // assert_eq!(get_words_letters_contained(&contains, words_found), vec![String::from("abate")]);
     }

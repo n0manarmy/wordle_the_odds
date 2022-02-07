@@ -18,8 +18,8 @@ use prelude::*;
 fn main() {
     // dbg!(words::answer_list.len());
     // dbg!(words::allowed_list.len());
-    let guess = String::from("s\0\0\0\0");
-    let contained = String::from("k");
+    let guess = String::from("\0L\0E\0");
+    let contained = String::from("e");
     let found = get_words_letters_contained(&contained, get_words_letters_in_placed(&guess));
 
     println!("Possible word count {}", found.len());
