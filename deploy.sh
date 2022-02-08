@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r index.html pkg /home/user/public/
+cp -r index.html interface.js style.css pkg /home/user/public/

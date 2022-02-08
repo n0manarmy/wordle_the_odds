@@ -2,75 +2,47 @@
 <html>
 
 <head>
-	<meta content="text/html;charset=UTF-8" , http-equiv="Content-Type">
+	<meta content="text/html;charset=UTF-8, width=device-width, initial-scale=1.0" , http-equiv="Content-Type">
+
 	<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
 	<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
 	<title>Wordle The Odds</title>
 </head>
 
-<body>
-	<div class="input">
-		<form>
-			Placed Letters<br>
-			<label for="1st">1st</label>
-			<input 	type="text" id="first_placed">
-			<label for="2nd">2nd</label>
-			<input type="text" id="second_placed">
-			<label for="3rd">3rd</label>
-			<input type="text" id="third_placed">
-			<label for="4th">4th</label>
-			<input type="text" id="fourth_placed">
-			<label for="5th">5th</label>
-			<input type="text" id="fifth_placed"><br>
-			<label for="found">Found letters</label>
-			<input type="text" id="found_letters">
-		</form>
-		<p><button id="submit">Submit</button></p>
-		<!-- <p><button id="refresh_time_button">Refresh time</button></p> -->
-	</div>
-	Results: <label id="results_value"></label>
-	<!-- 
-	We are using Node.js <span id="node-version"></span>,
-	Chromium <span id="chrome-version"></span>,
-	and Electron <span id="electron-version"></span>. -->
+<body style="background-color: black; color:darkgray;width: auto;">
+	<h2>About</h2>
+	This little applet is built with Rust/WASM and JavaScript.
+	I wanted to know the odds of picking the right word based on
+	the letters that I had in the right place and the letters I
+	found that are contained in the wordle puzzle.
 
-	<!-- You can also require other files to run in this process -->
-	<!-- <script src="./preload.js"></script> -->
-	<script type="module">
-		import init, { get_words } from './pkg/wordle_odds.js';
-		console.log('imported');
-
-		async function run() {
-			await init();
-
-			const submit_button = document.getElementById('submit');
-
-			submit_button.addEventListener('click', () => {
-				var first = (document.getElementById('first_placed').value != "") ? document.getElementById('first_placed').value : '\0';
-				var second = (document.getElementById('second_placed').value != "") ? document.getElementById('second_placed').value : '\0';
-				var third = (document.getElementById('third_placed').value != "") ? document.getElementById('third_placed').value : '\0';
-				var fourth = (document.getElementById('fourth_placed').value != "") ? document.getElementById('fourth_placed').value : '\0';
-				var fifth = (document.getElementById('fifth_placed').value != "") ? document.getElementById('fifth_placed').value : '\0';
-				var found = (document.getElementById('found_letters').value != "") ? document.getElementById('found_letters').value : '\0';
-				console.log('first: ' + first);
-				console.log('second: ' + second);
-				console.log('third: ' + third);
-				console.log('fourth: ' + fourth);
-				console.log('fifth: ' + fifth);
-				console.log('found: ' + found);
-				console.log('submit button clicked');
-				var results = get_words(first, second, third, fourth, fifth, found);
-				console.log('results ' + results);
-				var results_value = document.getElementById('results_value')
-				results_value.textContent = results
-
-			});
-		}
-
-		run();
-
-	</script>
-
+	<h2>Directions</h2>
+	In the boxes below, place the letters that are in the correct position.
+	Don't place anything in the boxes where you've not selected letters.
+	For the "Found Letters" place the letters that have been found but
+	are not in the right place.
+	<br>
+	<br>
+	<form>
+		<h3>Correct Letters Placed</h3>
+		<br>
+		<label for="1st">1st</label>
+		<input type="text" id="first_placed">
+		<label for="2nd">2nd</label>
+		<input type="text" id="second_placed">
+		<label for="3rd">3rd</label>
+		<input type="text" id="third_placed">
+		<label for="4th">4th</label>
+		<input type="text" id="fourth_placed">
+		<label for="5th">5th</label>
+		<input type="text" id="fifth_placed">
+		<br>
+		<br>
+		<h3>All letters found, but not in the right place</h3><input type="text" id="found_letters">
+	</form>
+	<p><button id="submit">Submit</button></p>
+	Odds of guessing the word are 1 in <label id="results_value"></label>
+	<script type="module" src="interface.js"></script>
 </body>
 
 </html>
