@@ -1,3 +1,25 @@
+body {
+    background-color: black; 
+    color:darkgray;
+    width: 50%; 
+    margin: auto;
+    text-align: center;
+}
+
+.correct_input {
+    /* padding: 15px 10px; */
+    line-height: 10px;
+    width: 5%;
+    font-size: xx-large;
+    text-align: center;
+}
+.found_input {
+    /* padding: 15px 10px; */
+    line-height: 10px;
+    width: 20%;
+    font-size: xx-large;
+    text-align: center;
+}
 .grid_container {
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -23,4 +45,14 @@
     padding: 5px;
     border: 1px solid black;
     width: 100%;
+}
+.submit_button {
+    background-color:darkgray   ; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
 }

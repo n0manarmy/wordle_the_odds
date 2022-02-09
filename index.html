@@ -3,13 +3,15 @@
 
 <head>
 	<meta content="text/html;charset=UTF-8, width=device-width, initial-scale=1.0" , http-equiv="Content-Type">
-
 	<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
 	<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
 	<title>Wordle The Odds</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 
-<body style="background-color: black; color:darkgray;width: auto;">
+<!-- <body style="background-color: black; color:darkgray;width: auto;"> -->
+
+<body>
 	<h2>About</h2>
 	This little applet is built with Rust/WASM and JavaScript.
 	I wanted to know the odds of picking the right word based on
@@ -26,21 +28,23 @@
 	<form>
 		<h3>Correct Letters Placed</h3>
 		<br>
-		<label for="1st">1st</label>
-		<input type="text" id="first_placed" maxlength="1">
-		<label for="2nd">2nd</label>
-		<input type="text" id="second_placed" maxlength="1">
-		<label for="3rd">3rd</label>
-		<input type="text" id="third_placed" maxlength="1">
-		<label for="4th">4th</label>
-		<input type="text" id="fourth_placed" maxlength="1">
-		<label for="5th">5th</label>
-		<input type="text" id="fifth_placed" maxlength="1">
+		<div class="correct_input_container">
+			<!-- <label for="1st">1st</label> -->
+			<input class="correct_input" type="text" id="first_placed" maxlength="1">
+			<!-- <label for="2nd">2nd</label> -->
+			<input class="correct_input" type="text" id="second_placed" maxlength="1">
+			<!-- <label for="3rd">3rd</label> -->
+			<input class="correct_input" type="text" id="third_placed" maxlength="1">
+			<!-- <label for="4th">4th</label> -->
+			<input class="correct_input" type="text" id="fourth_placed" maxlength="1">
+			<!-- <label for="5th">5th</label> -->
+			<input class="correct_input" type="text" id="fifth_placed" maxlength="1">
+		</div>
 		<br>
 		<br>
-		<h3>All letters found, but not in the right place</h3><input type="text" id="found_letters" maxlength="5">
+		<h3>All letters found, but not in the right place</h3><input class="found_input" type="text" id="found_letters" maxlength="5">
 	</form>
-	<p><button id="submit">Submit</button></p>
+	<p><button class="submit_button" id="submit">Submit</button></p>
 	Odds of guessing the word are 1 in <label id="results_value"></label>
 	<script type="module" src="interface.js"></script>
 </body>
