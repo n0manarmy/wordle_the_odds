@@ -1,20 +1,22 @@
-pub static test_answer_list: [&str; 5] = [
-        "aback",
-        "abase",
-        "abate",
-        "abbey",
-        "abbot"
-    ];
-    
-    pub static test_filter_list: [&str; 5] = [
-        "aahed",
-        "aalii",
-        "aargh",
-        "aarti",
-        "abaca"
-    ];
-    
-    pub static answer_list: [&str; 2309] = ["cigar",
+#[allow(dead_code)]
+pub static TEST_ANSWER_LIST: [&str; 5] = [
+    "aback",
+    "abase",
+    "abate",
+    "abbey",
+    "abbot"
+];
+
+#[allow(dead_code)]
+pub static TEST_FILTER_LIST: [&str; 5] = [
+    "aahed",
+    "aalii",
+    "aargh",
+    "aarti",
+    "abaca"
+];
+
+pub static ANSWER_LIST: [&str; 2309] = ["cigar",
 "rebut",
 "sissy",
 "humph",

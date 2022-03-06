@@ -56,8 +56,9 @@ pub fn get_words(first: &str, second: &str, third: &str, fourth: &str, fifth: &s
 
     // let guess = String::from([first, second, third, fourth, fifth].concat()).to_lowercase();
     let contained = String::from(found).to_lowercase();
-    let words_found: Vec<&str> = get_words_letters_in_placed(guess, incorrect_results);
-    let results = get_words_letters_contained(&contained, words_found);
+    let words = filter_incorrect_letters(incorrect_results);
+    let words_found: Vec<&str> = filter_correct_letters(guess, words);
+    let results = filter_found_letters(&contained, words_found);
 
     // log("get_words done");
 

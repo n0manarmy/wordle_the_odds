@@ -1,6 +1,21 @@
-use crate::{prelude::*, words};
+use crate::prelude::*;
 
-pub fn get_words_letters_in_placed(letters: [char; 5], incorrect: Vec<char>) -> Vec<&'static str> {
+pub fn filter_incorrect_letters(letters: Vec<char>) -> Vec<&'static str> {
+    let mut found: Vec<&str> = ANSWER_LIST.to_vec();
+
+    found.retain(|word| {
+        for l in &letters {
+            if word.to_lowercase().contains(&l.to_string().to_lowercase()) {
+                return false;
+            }
+        }
+        return true;
+    });
+
+    found
+}
+
+pub fn filter_correct_letters(letters: [char; 5], mut words: Vec<&str>) -> Vec<&str> {
     let mut empty = false;
 
     // Check for no correct placed letters. If so, return unchanged list
@@ -14,35 +29,15 @@ pub fn get_words_letters_in_placed(letters: [char; 5], incorrect: Vec<char>) -> 
     }
     // No placed letters found, returning unchanged list
     if empty == true {
-        return answer_list.iter().map(|f| *f).collect::<Vec<&str>>();
+        return words;
     }
 
-    let mut found: Vec<&str> = answer_list.to_vec();
-    found.retain(|word| {
-        for i in &incorrect {
-            if word.to_lowercase().contains(&i.to_string().to_lowercase()) {
-                return false;
-            }
-        }
-        return true;
-    });
-
-    // for line in answer_list {
-    //     for i in &incorrect {
-    //         if line.contains(*i) {
-    //             continue;
-    //         } else {
-    //             found.push(line);
-    //         }
-    //     }
-    // }
-
-    found.retain(|word| {
+    words.retain(|word| {
         for (i, c) in word.char_indices() {
             if letters[i] == '\0' {
                 continue;
             }
-            
+
             if letters[i].to_string().to_lowercase() == c.to_string().to_lowercase() {
                 continue;
             } else {
@@ -53,26 +48,26 @@ pub fn get_words_letters_in_placed(letters: [char; 5], incorrect: Vec<char>) -> 
         true
     });
 
-    found
+    words
 }
 
-pub fn get_words_letters_contained(letters: &str, mut words_found: Vec<&'static str>) -> Vec<&'static str> {
+pub fn filter_found_letters(letters: &str, mut words_found: Vec<&'static str>) -> Vec<&'static str> {
+    let mut found = false;
     if letters == "\0" || letters == "" {
         return words_found;
     } else {
-        words_found.retain(|word|{
+        words_found.retain(|word| {
             for c in letters.to_lowercase().chars() {
                 if word.contains(c) {
-                    return true;
+                    found = true;
                 } else {
                     return false;
                 }
             }
-            false 
+            found
         });
-        
-        words_found
 
+        words_found
     }
 }
 
@@ -85,24 +80,13 @@ mod tests {
     pub fn test_get_words_letters_in_place() {
         // let incorrect: Vec<char> = vec!['t', 'a', 'd'];
         let incorrect: Vec<char> = vec![];
-        let correct: [char; 5] = ['\0', 'R', '\0', '\0', '\0'];
-        let found : &str = "";
-    
-        let words_found = get_words_letters_in_placed(correct, incorrect);
-        let results = get_words_letters_contained(found, words_found);
-        println!("results {}", results.len().to_string());
-        // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
-    }
+        let correct: [char; 5] = ['\0', 'R', '\0', '\0', 'e'];
+        let found: &str = "B";
 
-    #[test]
-    pub fn bug() {
-        // let incorrect: Vec<char> = vec!['t', 'a', 'd'];
-        let incorrect: Vec<char> = vec!['R', 'S', 'F', 'G'];
-        let correct: [char; 5] = ['W', '\0', 'M', '\0', '\0'];
-        let found : &str = "A";
-    
-        let words_found = get_words_letters_in_placed(correct, incorrect);
-        let results = get_words_letters_contained(found, words_found);
+        let words = filter_incorrect_letters(incorrect);
+        let words = filter_correct_letters(correct, words);
+        let results = filter_found_letters(found, words);
+        println!("results {}", results.len().to_string());
         println!("results {:?}", results);
         // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
     }

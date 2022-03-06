@@ -26,23 +26,25 @@ fn main() {
     let out_dir = "./src";
     let dest_path = Path::new(&out_dir).join("words.rs");
     let output: String = format!(
-    "pub static test_answer_list: [&str; 5] = [
-        \"aback\",
-        \"abase\",
-        \"abate\",
-        \"abbey\",
-        \"abbot\"
-    ];
-    
-    pub static test_filter_list: [&str; 5] = [
-        \"aahed\",
-        \"aalii\",
-        \"aargh\",
-        \"aarti\",
-        \"abaca\"
-    ];
-    
-    pub static answer_list: [&str; {}] = [{}];", word_lists.answers.len(), build_list(word_lists.answers));
+"#[allow(dead_code)]
+pub static TEST_ANSWER_LIST: [&str; 5] = [
+    \"aback\",
+    \"abase\",
+    \"abate\",
+    \"abbey\",
+    \"abbot\"
+];
+
+#[allow(dead_code)]
+pub static TEST_FILTER_LIST: [&str; 5] = [
+    \"aahed\",
+    \"aalii\",
+    \"aargh\",
+    \"aarti\",
+    \"abaca\"
+];
+
+pub static ANSWER_LIST: [&str; {}] = [{}];", word_lists.answers.len(), build_list(word_lists.answers));
     
     fs::write(
         &dest_path, output   
