@@ -38,20 +38,19 @@ pub fn get_words_letters_in_placed(letters: [char; 5], incorrect: Vec<char>) -> 
     // }
 
     found.retain(|word| {
-        let mut exists = false;
-
         for (i, c) in word.char_indices() {
             if letters[i] == '\0' {
                 continue;
             }
+            
             if letters[i].to_string().to_lowercase() == c.to_string().to_lowercase() {
-                exists = true;
+                continue;
             } else {
-                exists = false;
+                return false;
             }
         }
 
-        exists
+        true
     });
 
     found
@@ -92,6 +91,19 @@ mod tests {
         let words_found = get_words_letters_in_placed(correct, incorrect);
         let results = get_words_letters_contained(found, words_found);
         println!("results {}", results.len().to_string());
+        // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
+    }
+
+    #[test]
+    pub fn bug() {
+        // let incorrect: Vec<char> = vec!['t', 'a', 'd'];
+        let incorrect: Vec<char> = vec!['R', 'S', 'F', 'G'];
+        let correct: [char; 5] = ['W', '\0', 'M', '\0', '\0'];
+        let found : &str = "A";
+    
+        let words_found = get_words_letters_in_placed(correct, incorrect);
+        let results = get_words_letters_contained(found, words_found);
+        println!("results {:?}", results);
         // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
     }
 }
