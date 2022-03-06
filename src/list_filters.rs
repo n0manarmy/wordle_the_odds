@@ -1,49 +1,79 @@
-use crate::prelude::*;
+use crate::{prelude::*, words};
 
-pub fn get_words_letters_in_placed(letters: &str) -> Vec<String> {
-    let mut found: Vec<String> = Vec::new();
-    for line in answer_list {
+pub fn get_words_letters_in_placed(letters: [char; 5], incorrect: Vec<char>) -> Vec<&'static str> {
+    let mut empty = false;
+
+    // Check for no correct placed letters. If so, return unchanged list
+    for l in letters {
+        if l == '\0' {
+            empty = true;
+        } else {
+            empty = false;
+            break;
+        }
+    }
+    // No placed letters found, returning unchanged list
+    if empty == true {
+        return answer_list.iter().map(|f| *f).collect::<Vec<&str>>();
+    }
+
+    let mut found: Vec<&str> = answer_list.to_vec();
+    found.retain(|word| {
+        for i in &incorrect {
+            if word.to_lowercase().contains(&i.to_string().to_lowercase()) {
+                return false;
+            }
+        }
+        return true;
+    });
+
+    // for line in answer_list {
+    //     for i in &incorrect {
+    //         if line.contains(*i) {
+    //             continue;
+    //         } else {
+    //             found.push(line);
+    //         }
+    //     }
+    // }
+
+    found.retain(|word| {
         let mut exists = false;
-        for (i, c) in line.char_indices() {
-            if letters.as_bytes()[i] as char == '\0' {
+
+        for (i, c) in word.char_indices() {
+            if letters[i] == '\0' {
                 continue;
             }
-            if letters.as_bytes()[i] as char == c {
+            if letters[i].to_string().to_lowercase() == c.to_string().to_lowercase() {
                 exists = true;
             } else {
                 exists = false;
-                break;
             }
         }
-        if exists {
-            found.push(String::from(line));
-        }
-    }
+
+        exists
+    });
 
     found
 }
 
-pub fn get_words_letters_contained(letters: &str, words_found: Vec<String>) -> Vec<String> {
-    if letters == "\0" {
+pub fn get_words_letters_contained(letters: &str, mut words_found: Vec<&'static str>) -> Vec<&'static str> {
+    if letters == "\0" || letters == "" {
         return words_found;
     } else {
-        let mut words_left: Vec<String> = Vec::new();
-        for word in words_found {
-            let mut exists = false;
-            for c in letters.chars() {
+        words_found.retain(|word|{
+            for c in letters.to_lowercase().chars() {
                 if word.contains(c) {
-                    exists = true;
+                    return true;
                 } else {
-                    exists = false;
-                    break;
+                    return false;
                 }
             }
-            if exists {
-                words_left.push(String::from(word));
-            }
-        }
+            false 
+        });
+        
+        words_found
 
-        words_left
     }
 }
 
@@ -54,40 +84,14 @@ mod tests {
 
     #[test]
     pub fn test_get_words_letters_in_place() {
-        let letters: String = String::from("a\0\0\0\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 5);
-        let letters: String = String::from("a\0\0\0\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 5);
-        let letters: String = String::from("ab\0\0\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 5);
-        let letters: String = String::from("aba\0\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 3);
-        let letters: String = String::from("aback");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 1);
-        assert_eq!(letters, get_words_letters_in_placed(&letters)[0]);
-        let letters: String = String::from("a\0\0e\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 1);
-        let letters: String = String::from("\0\0\0\0\0");
-        assert_eq!(get_words_letters_in_placed(&letters).len(), 0);
-    }
-
-    #[test]
-    pub fn test_get_words_letters_contained() {
-        let letters: String = String::from("aba\0\0");
-        let words_found = get_words_letters_in_placed(&letters);
-        let contains = String::from("et");
-        assert_eq!(
-            get_words_letters_contained(&contains, words_found),
-            vec![String::from("abate")]
-        );
-    }
-
-    #[test]
-    pub fn test_get_words_letters_none_contained() {
-        let letters: String = String::from("\0l\0e\0");
-        let words_found = get_words_letters_in_placed(&letters);
-        let contains = String::from("e");
-        dbg!(get_words_letters_contained(&contains, words_found).len());
-        // assert_eq!(get_words_letters_contained(&contains, words_found), vec![String::from("abate")]);
+        // let incorrect: Vec<char> = vec!['t', 'a', 'd'];
+        let incorrect: Vec<char> = vec![];
+        let correct: [char; 5] = ['\0', 'R', '\0', '\0', '\0'];
+        let found : &str = "";
+    
+        let words_found = get_words_letters_in_placed(correct, incorrect);
+        let results = get_words_letters_contained(found, words_found);
+        println!("results {}", results.len().to_string());
+        // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
     }
 }

@@ -1,7 +1,9 @@
 mod words;
 mod list_filters;
-
 mod prelude {
+    extern crate serde_json;
+    extern crate wasm_bindgen;
+    
     pub use std::io::prelude::*;
     pub use std::path::Path;
     pub use std::fs::File;
@@ -29,7 +31,7 @@ extern {
 }
 
 #[wasm_bindgen]
-pub fn get_words(first: &str, second: &str, third: &str, fourth: &str, fifth: &str, found: &str) -> String {
+pub fn get_words(first: &str, second: &str, third: &str, fourth: &str, fifth: &str, found: &str, incorrect: JsValue) -> String {
     // log("get_words enter");
     // log(&["first ",  first].concat());
     // log(&["second ",  second].concat());
@@ -38,9 +40,24 @@ pub fn get_words(first: &str, second: &str, third: &str, fourth: &str, fifth: &s
     // log(&["fifth ",  fifth].concat());
     // log(&["found ",  found].concat());
 
-    let guess = String::from([first, second, third, fourth, fifth].concat()).to_lowercase();
+    let guess = [
+        first.chars().next().unwrap(), 
+        second.chars().next().unwrap(), 
+        third.chars().next().unwrap(), 
+        fourth.chars().next().unwrap(), 
+        fifth.chars().next().unwrap()
+        ];
+    
+    let incorrect_results: Vec<char> = incorrect.into_serde().expect("Error parsing incorrect letters");
+
+    // let inc_change: Vec<char> = incorrect_results.iter().map(|i| i.chars().next().unwrap()).collect();
+    // let inc: String = incorrect_results.iter().map(|i| i.to_lowercase().to_string()).collect();
+    // log(&["found incorrect", &inc].concat());
+
+    // let guess = String::from([first, second, third, fourth, fifth].concat()).to_lowercase();
     let contained = String::from(found).to_lowercase();
-    let results = get_words_letters_contained(&contained, get_words_letters_in_placed(&guess));
+    let words_found: Vec<&str> = get_words_letters_in_placed(guess, incorrect_results);
+    let results = get_words_letters_contained(&contained, words_found);
 
     // log("get_words done");
 
