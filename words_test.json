@@ -1,0 +1,32 @@
+{
+    "answers": [
+        {
+            "word": "cigar",
+            "zipf_dist": 3.57
+        },
+        {
+            "word": "rebut",
+            "zipf_dist": 2.6
+        },
+        {
+            "word": "sissy",
+            "zipf_dist": 3.23
+        },
+        {
+            "word": "humph",
+            "zipf_dist": 2.18
+        },
+        {
+            "word": "awake",
+            "zipf_dist": 4.14
+        },
+        {
+            "word": "blush",
+            "zipf_dist": 3.56
+        },
+        {
+            "word": "focal",
+            "zipf_dist": 3.67
+        }
+    ]
+}

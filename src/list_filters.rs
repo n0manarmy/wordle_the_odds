@@ -1,11 +1,11 @@
-use crate::prelude::*;
+use crate::{prelude::*, wordle_word};
 
-pub fn filter_incorrect_letters(letters: Vec<char>) -> Vec<&'static str> {
-    let mut found: Vec<&str> = ANSWER_LIST.to_vec();
+pub fn filter_incorrect_letters(letters: Vec<char>) -> Vec<WordleWord> {
+    let mut found: Vec<WordleWord> = ANSWER_LIST.to_vec();
 
-    found.retain(|word| {
+    found.retain(|wordle_word| {
         for l in &letters {
-            if word.to_lowercase().contains(&l.to_string().to_lowercase()) {
+            if wordle_word.word.to_lowercase().contains(&l.to_string().to_lowercase()) {
                 return false;
             }
         }
@@ -15,7 +15,7 @@ pub fn filter_incorrect_letters(letters: Vec<char>) -> Vec<&'static str> {
     found
 }
 
-pub fn filter_correct_letters(letters: [char; 5], mut words: Vec<&str>) -> Vec<&str> {
+pub fn filter_correct_letters(letters: [char; 5], mut words: Vec<WordleWord>) -> Vec<WordleWord> {
     let mut empty = false;
 
     // Check for no correct placed letters. If so, return unchanged list
@@ -32,8 +32,8 @@ pub fn filter_correct_letters(letters: [char; 5], mut words: Vec<&str>) -> Vec<&
         return words;
     }
 
-    words.retain(|word| {
-        for (i, c) in word.char_indices() {
+    words.retain(|wordle_word| {
+        for (i, c) in wordle_word.word.char_indices() {
             if letters[i] == '\0' {
                 continue;
             }
@@ -51,14 +51,14 @@ pub fn filter_correct_letters(letters: [char; 5], mut words: Vec<&str>) -> Vec<&
     words
 }
 
-pub fn filter_found_letters(letters: &str, mut words_found: Vec<&'static str>) -> Vec<&'static str> {
+pub fn filter_found_letters(letters: &str, mut words_found: Vec<WordleWord>) -> Vec<WordleWord> {
     let mut found = false;
     if letters == "\0" || letters == "" {
         return words_found;
     } else {
-        words_found.retain(|word| {
+        words_found.retain(|wordle_words| {
             for c in letters.to_lowercase().chars() {
-                if word.contains(c) {
+                if wordle_words.word.contains(c) {
                     found = true;
                 } else {
                     return false;
@@ -83,9 +83,9 @@ mod tests {
         let correct: [char; 5] = ['\0', 'R', '\0', '\0', 'e'];
         let found: &str = "B";
 
-        let words = filter_incorrect_letters(incorrect);
-        let words = filter_correct_letters(correct, words);
-        let results = filter_found_letters(found, words);
+        let wordle_words = filter_incorrect_letters(incorrect);
+        let wordle_words = filter_correct_letters(correct, wordle_words);
+        let results = filter_found_letters(found, wordle_words);
         println!("results {}", results.len().to_string());
         println!("results {:?}", results);
         // assert_eq!(get_words_letters_in_placed(letters, incorrect).len(), 5);
