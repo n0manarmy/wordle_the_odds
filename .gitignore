@@ -1,3 +1,4 @@
 /target
 start_python_wasm.py
 words.json
+src/words.rs
