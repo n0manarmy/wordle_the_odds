@@ -1,4 +1,5 @@
 /target
 start_python_wasm.py
-words.json
+list_utils/words.json
+list_utils/from_nyt.json
 src/words.rs

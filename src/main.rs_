@@ -1,0 +1,90 @@
+use serde::{Deserialize, Serialize};
+use std::process::Command;
+use std::path::Path;
+use std::fmt;
+use std::fs;
+
+#[derive(Debug, Deserialize, Serialize, Default)]
+struct WordList {
+    answers: Vec<WordleWord>,
+}
+
+#[derive(Debug, Deserialize, Serialize)]
+struct TempList {
+    answers: Vec<String>,
+}
+
+#[derive(Debug, Deserialize, Serialize, Default)]
+struct WordleWord {
+    pub word: String,
+    pub zipf_dist: f32,
+}
+
+impl fmt::Display for WordleWord {
+    fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
+        write!(f, "WordleWord {{ word: \"{}\", zipf_dist: {}}}", self.word, self.zipf_dist)
+    }
+}
+
+fn build_list(word_list: Vec<WordleWord>) -> String {
+    let mut list: String = String::new();
+    for w in word_list {
+        list = list + &format!("\t{},\n", w);
+    }
+    list
+}
+
+fn main() {
+    let file = std::fs::File::open("list_utils/words_test.json").unwrap();
+    let file = std::io::BufReader::new(file);
+    let temp_list: TempList = serde_json::from_reader(file).expect("error parsing json file");
+    let mut word_list: WordList = WordList { answers: Vec::new()};
+    
+    let mut get_zipf = Command::new("python");
+
+    for word in temp_list.answers {
+        // get_zipf.arg(word);
+        let output = get_zipf.arg(&word).output().expect("error");
+        let zipf_dist = String::from_utf8(output.stdout).unwrap().parse::<f32>().unwrap();
+        word_list.answers.push(WordleWord {
+            word,
+            zipf_dist,
+        });
+    }
+
+    for word in word_list.answers {
+        dbg!(word);
+    }
+}
+
+#[cfg(test)]
+mod tests {
+
+    use super::*;
+    #[test]
+    pub fn test_get_word_dist() {
+
+        let file = std::fs::File::open("list_utils/words_test.json").unwrap();
+        let file = std::io::BufReader::new(file);
+        let temp_list: TempList = serde_json::from_reader(file).expect("error parsing json file");
+        let mut word_list: WordList = WordList { answers: Vec::new()};
+        
+        let script_comm = "list_utils/get_wordfreq_score.py";
+
+        for word in temp_list.answers {
+            let output = Command::new("python")
+                .arg(&script_comm)
+                .arg(&word)
+                .output().expect("error");
+            let zipf_dist: f32 = String::from_utf8(output.stdout.clone()).unwrap().replace("\n", "").parse::<f32>().unwrap();
+            word_list.answers.push(WordleWord {
+                word,
+                zipf_dist,
+            });
+        }
+    
+        for word in word_list.answers {
+            dbg!(word);
+        }
+    }
+}

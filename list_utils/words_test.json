@@ -1,24 +1,9 @@
 {
     "answers": [
-        {
-            "word": "aback",
-            "zipf_dist": 3.57
-        },
-        {
-            "word": "abase",
-            "zipf_dist": 2.6
-        },
-        {
-            "word": "abate",
-            "zipf_dist": 3.23
-        },
-        {
-            "word": "abbey",
-            "zipf_dist": 2.18
-        },
-        {
-            "word": "abbot",
-            "zipf_dist": 4.14
-        }
+        "aback",
+        "abase",
+        "abate",
+        "abbey",
+        "abbot"
     ]
 }

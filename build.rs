@@ -1,23 +1,23 @@
 use serde::{Deserialize, Serialize};
-// use std::env;
+use std::process::Command;
 use std::path::Path;
 use std::fmt;
 use std::fs;
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, Default)]
 struct WordList {
     answers: Vec<WordleWord>,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, Default)]
 struct WordleWord {
     pub word: String,
-    pub zipf_dist: f32,
+    pub zipf_freq: f32,
 }
 
 impl fmt::Display for WordleWord {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        write!(f, "WordleWord {{ word: \"{}\", zipf_dist: {}}}", self.word, self.zipf_dist)
+        write!(f, "WordleWord {{ word: \"{}\", zipf_freq: {:.2}}}", self.word, self.zipf_freq as f32)
     }
 }
 
@@ -30,10 +30,10 @@ fn build_list(word_list: Vec<WordleWord>) -> String {
 }
 
 fn main() {
-    let file = std::fs::File::open("list_utils/words_test.json").unwrap();
+    let file = std::fs::File::open("words.json").unwrap();
+    // let file = std::fs::File::open("words.json").unwrap();
     let file = std::io::BufReader::new(file);
-    let word_lists: WordList = serde_json::from_reader(file).expect("error parsing json file");
-    
+    let word_list: WordList = serde_json::from_reader(file).expect("error parsing json file");
     // let out_dir = env::var_os("OUT_DIR").unwrap();
     let out_dir = "./src";
     let dest_path = Path::new(&out_dir).join("words.rs");
@@ -69,7 +69,7 @@ pub static TEST_ANSWER_LIST: [WordleWord; 5] =
 pub static ANSWER_LIST: [WordleWord; {}] = 
 [
 {}
-];", word_lists.answers.len(), build_list(word_lists.answers));
+];", word_list.answers.len(), build_list(word_list.answers));
     
     fs::write(
         &dest_path, output   
