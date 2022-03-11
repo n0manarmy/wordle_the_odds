@@ -30,7 +30,7 @@ fn build_list(word_list: Vec<WordleWord>) -> String {
 }
 
 fn main() {
-    let file = std::fs::File::open("words.json").unwrap();
+    let file = std::fs::File::open("list_utils/words.json").unwrap();
     // let file = std::fs::File::open("words.json").unwrap();
     let file = std::io::BufReader::new(file);
     let word_list: WordList = serde_json::from_reader(file).expect("error parsing json file");
@@ -46,23 +46,23 @@ pub static TEST_ANSWER_LIST: [WordleWord; 5] =
 [
     WordleWord {{
         word: \"aback\",
-        zipf_dist: 3.57
+        zipf_freq: 3.57
     }},
     WordleWord {{
         word: \"abase\",
-        zipf_dist: 2.6
+        zipf_freq: 2.6
     }},
     WordleWord {{
         word: \"abate\",
-        zipf_dist: 3.23
+        zipf_freq: 3.23
     }},
     WordleWord {{
         word: \"abbey\",
-        zipf_dist: 2.18
+        zipf_freq: 2.18
     }},
     WordleWord {{
         word: \"abbot\",
-        zipf_dist: 4.14
+        zipf_freq: 4.14
     }}
 ];
 

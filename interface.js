@@ -70,24 +70,12 @@ async function run() {
         var fourth = (document.getElementById('fourth_placed').value != "") ? document.getElementById('fourth_placed').value : '\0';
         var fifth = (document.getElementById('fifth_placed').value != "") ? document.getElementById('fifth_placed').value : '\0';
         var found = (document.getElementById('found_letters').value != "") ? document.getElementById('found_letters').value : '\0';
-        // console.log('first: ' + first);
-        // console.log('second: ' + second);
-        // console.log('third: ' + third);
-        // console.log('fourth: ' + fourth);
-        // console.log('fifth: ' + fifth);
-        // console.log('found: ' + found);
-        // console.log('submit button clicked');
         var incorrect = buttons.filter(button => button.classList.contains("active"))
             .map(button => {
                 return button.innerHTML;
             });
-        // console.log(incorrect)
 
-        var results = get_words(first, second, third, fourth, fifth, found, incorrect);
-        // console.log('results ' + results);
-
-        var results_value = document.getElementById('results_value')
-        results_value.textContent = results
+        get_words(first, second, third, fourth, fifth, found, incorrect);
 
     });
 }

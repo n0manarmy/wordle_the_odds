@@ -25,56 +25,68 @@
 	are not in the right place.
 	<br>
 	<br>
-	<form>
-		<h3>Correct Letters Placed</h3>
-		<br>
-		<div id="correct_input_container">
-			<input class="correct_input" type="text" id="first_placed" maxlength="1">
-			<input class="correct_input" type="text" id="second_placed" maxlength="1">
-			<input class="correct_input" type="text" id="third_placed" maxlength="1">
-			<input class="correct_input" type="text" id="fourth_placed" maxlength="1">
-			<input class="correct_input" type="text" id="fifth_placed" maxlength="1">
-		</div>
-		<br>
-		<h3>Incorrect Letters Placed</h3>
-		If you want to further refine the odds, select the incorrect letters below:
-		<br>
-		<br>
-		<div id="incorrect_input_container">
-			<button id="q_button" type="button">Q</button>
-			<button id="w_button" type="button">W</button>
-			<button id="e_button" type="button">E</button>
-			<button id="r_button" type="button">R</button>
-			<button id="t_button" type="button">T</button>
-			<button id="y_button" type="button">Y</button>
-			<button id="u_button" type="button">U</button>
-			<button id="i_button" type="button">I</button>
-			<button id="o_button" type="button">O</button>
-			<button id="p_button" type="button">P</button>
-			<br>
-			<br>
-			<button id="a_button" type="button">A</button>
-			<button id="s_button" type="button">S</button>
-			<button id="d_button" type="button">D</button>
-			<button id="f_button" type="button">F</button>
-			<button id="g_button" type="button">G</button>
-			<button id="h_button" type="button">H</button>
-			<button id="j_button" type="button">J</button>
-			<button id="k_button" type="button">K</button>
-			<button id="l_button" type="button">L</button>
-			<br>
-			<br>
-			<button id="z_button" type="button">Z</button>
-			<button id="x_button" type="button">X</button>
-			<button id="c_button" type="button">C</button>
-			<button id="v_button" type="button">V</button>
-			<button id="b_button" type="button">B</button>
-			<button id="n_button" type="button">N</button>
-			<button id="m_button" type="button">M</button>
-		</div>
-		<br>
-		<br>
-		<h3>All letters found, but not in the right place</h3><input class="found_input" type="text" id="found_letters" maxlength="5">
+	<table>
+		<tr>
+			<td>
+			<form>
+				<h3>Correct Letters Placed</h3>
+				<br>
+				<div id="correct_input_container">
+					<input class="correct_input" type="text" id="first_placed" maxlength="1">
+					<input class="correct_input" type="text" id="second_placed" maxlength="1">
+					<input class="correct_input" type="text" id="third_placed" maxlength="1">
+					<input class="correct_input" type="text" id="fourth_placed" maxlength="1">
+					<input class="correct_input" type="text" id="fifth_placed" maxlength="1">
+				</div>
+				<br>
+				<h3>Incorrect Letters Placed</h3>
+				If you want to further refine the odds, select the incorrect letters below:
+				<br>
+				<br>
+				<div id="incorrect_input_container">
+					<button id="q_button" type="button">Q</button>
+					<button id="w_button" type="button">W</button>
+					<button id="e_button" type="button">E</button>
+					<button id="r_button" type="button">R</button>
+					<button id="t_button" type="button">T</button>
+					<button id="y_button" type="button">Y</button>
+					<button id="u_button" type="button">U</button>
+					<button id="i_button" type="button">I</button>
+					<button id="o_button" type="button">O</button>
+					<button id="p_button" type="button">P</button>
+					<br>
+					<br>
+					<button id="a_button" type="button">A</button>
+					<button id="s_button" type="button">S</button>
+					<button id="d_button" type="button">D</button>
+					<button id="f_button" type="button">F</button>
+					<button id="g_button" type="button">G</button>
+					<button id="h_button" type="button">H</button>
+					<button id="j_button" type="button">J</button>
+					<button id="k_button" type="button">K</button>
+					<button id="l_button" type="button">L</button>
+					<br>
+					<br>
+					<button id="z_button" type="button">Z</button>
+					<button id="x_button" type="button">X</button>
+					<button id="c_button" type="button">C</button>
+					<button id="v_button" type="button">V</button>
+					<button id="b_button" type="button">B</button>
+					<button id="n_button" type="button">N</button>
+					<button id="m_button" type="button">M</button>
+				</div>
+			</td>
+			<td>
+				Word Frequency Results (up to 50)<br>
+				<br>
+				<div style="height: 100px; width: 60px; overflow: auto;" id="word_freq_results"></div>
+			</td>
+		</tr>
+	</table>
+	<br>
+	<br>
+	<h3>All letters found, but not in the right place</h3><input class="found_input" type="text" id="found_letters"
+		maxlength="5">
 	</form>
 	<p><button class="submit_button" id="submit_button">Submit</button></p>
 	Odds of guessing the word are 1 in <label id="results_value">00</label>
@@ -86,7 +98,8 @@
 	Changelog:<br>
 	- 2022.03.05 Added the option to select incorrect picks to help reduce the odds presented.<br>
 	<br>
-	<a href="https://github.com/n0manarmy/wordle_the_odds" target="_blank">https://github.com/n0manarmy/wordle_the_odds</a>
+	<a href="https://github.com/n0manarmy/wordle_the_odds"
+		target="_blank">https://github.com/n0manarmy/wordle_the_odds</a>
 	<script type="module" src="interface.js"></script>
 </body>
 

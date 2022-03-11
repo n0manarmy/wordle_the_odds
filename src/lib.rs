@@ -13,12 +13,15 @@ mod prelude {
     pub use serde::{Deserialize, Serialize};
     pub use wasm_bindgen::prelude::*;
 
+    pub use web_sys::*;
+
     pub use crate::list_filters::*;
     pub use crate::words::*;
     pub use crate::wordle_word::WordleWord;
 }
 
 use prelude::*;
+use wasm_bindgen::JsCast;
 
 // When the `wee_alloc` feature is enabled, use `wee_alloc` as the global
 // allocator.
@@ -41,7 +44,7 @@ pub fn get_words(
     fifth: &str,
     found: &str,
     incorrect: JsValue,
-) -> String {
+) -> Result<(), JsValue> {
     let guess = [
         first.chars().next().unwrap(),
         second.chars().next().unwrap(),
@@ -57,7 +60,37 @@ pub fn get_words(
     let contained = String::from(found).to_lowercase();
     let wordle_words = filter_incorrect_letters(incorrect_results);
     let wordle_words: Vec<WordleWord> = filter_correct_letters(guess, wordle_words);
-    let results = filter_found_letters(&contained, wordle_words);
+    let mut results = filter_found_letters(&contained, wordle_words);
 
-    results.len().to_string()
+    let window = web_sys::window().expect("no global `window` exists");
+    let document = window.document().expect("should have a document on window");
+    // let body = document.body().expect("document should have a body");
+
+    let results_element = document
+        .get_element_by_id("results_value")
+        .expect("Error getting results element")
+        .dyn_into::<web_sys::HtmlElement>()
+        .expect("Error converting to HtmlElement");
+
+    let word_freq_results_list = document
+        .get_element_by_id("word_freq_results")
+        .expect("Error getting results element")
+        .dyn_into::<web_sys::HtmlElement>()
+        .expect("Error converting to HtmlElement");
+    
+    results_element.set_text_content(Some(&results.len().to_string()));
+    
+    let mut freq_results: String = String::new();
+    results.sort_by(|a, b| b.zipf_freq.partial_cmp(&a.zipf_freq).unwrap());
+    for (i, x) in results.iter().enumerate() {
+        if i == 50 {
+            break;
+        }
+        freq_results = freq_results + &(i + 1).to_string() + ". " + &x.zipf_freq.to_string() + "\t";
+    }
+
+    word_freq_results_list.set_text_content(Some(&freq_results));
+    // log(&freq_results);
+
+    Ok(())
 }
