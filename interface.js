@@ -70,6 +70,8 @@ async function run() {
         var fourth = (document.getElementById('fourth_placed').value != "") ? document.getElementById('fourth_placed').value : '\0';
         var fifth = (document.getElementById('fifth_placed').value != "") ? document.getElementById('fifth_placed').value : '\0';
         var found = (document.getElementById('found_letters').value != "") ? document.getElementById('found_letters').value : '\0';
+        var zipf_table = document.getElementById("freq_table");
+        zipf_table.innerHTML = "";
         var incorrect = buttons.filter(button => button.classList.contains("active"))
             .map(button => {
                 return button.innerHTML;
