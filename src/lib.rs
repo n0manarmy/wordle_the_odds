@@ -34,7 +34,7 @@ extern "C" {
     #[wasm_bindgen(js_namespace = console, js_name = log)]
     fn log(s: &str);
 }
-
+// Our WASM function to get input from JavaScript
 #[wasm_bindgen]
 pub fn get_words(
     first: &str,
@@ -46,20 +46,28 @@ pub fn get_words(
     incorrect: JsValue,
 ) -> Result<(), JsValue> {
     let guess = [
-        first.chars().next().unwrap(),
-        second.chars().next().unwrap(),
-        third.chars().next().unwrap(),
-        fourth.chars().next().unwrap(),
-        fifth.chars().next().unwrap(),
+        first,
+        second,
+        third,
+        fourth,
+        fifth,
     ];
 
+    // All of our selected letters that are incorrect responses from JS
     let incorrect_results: Vec<char> = incorrect
         .into_serde()
         .expect("Error parsing incorrect letters");
 
+    // format letters that were contained but not correct into lower case
     let contained = String::from(found).to_lowercase();
+
+    // filter out words that contain incorrect results
     let wordle_words = filter_incorrect_letters(incorrect_results);
+
+    // filter to keep words that have the correct letters in the correct place
     let wordle_words: Vec<WordleWord> = filter_correct_letters(guess, wordle_words);
+
+    // filter to keep words
     let mut results = filter_found_letters(&contained, wordle_words);
 
     let window = web_sys::window().expect("no global `window` exists");

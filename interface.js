@@ -64,12 +64,12 @@ async function run() {
     const submit_button = document.getElementById('submit_button');
 
     submit_button.addEventListener('click', () => {
-        var first = (document.getElementById('first_placed').value != "") ? document.getElementById('first_placed').value : '\0';
-        var second = (document.getElementById('second_placed').value != "") ? document.getElementById('second_placed').value : '\0';
-        var third = (document.getElementById('third_placed').value != "") ? document.getElementById('third_placed').value : '\0';
-        var fourth = (document.getElementById('fourth_placed').value != "") ? document.getElementById('fourth_placed').value : '\0';
-        var fifth = (document.getElementById('fifth_placed').value != "") ? document.getElementById('fifth_placed').value : '\0';
-        var found = (document.getElementById('found_letters').value != "") ? document.getElementById('found_letters').value : '\0';
+        var first = (document.getElementById('first_placed').value != "") ? document.getElementById('first_placed').value : "";
+        var second = (document.getElementById('second_placed').value != "") ? document.getElementById('second_placed').value : "";
+        var third = (document.getElementById('third_placed').value != "") ? document.getElementById('third_placed').value : "";
+        var fourth = (document.getElementById('fourth_placed').value != "") ? document.getElementById('fourth_placed').value : "";
+        var fifth = (document.getElementById('fifth_placed').value != "") ? document.getElementById('fifth_placed').value : "";
+        var found = (document.getElementById('found_letters').value != "") ? document.getElementById('found_letters').value : "";
         var zipf_table = document.getElementById("freq_table");
         zipf_table.innerHTML = "";
         var incorrect = buttons.filter(button => button.classList.contains("active"))
