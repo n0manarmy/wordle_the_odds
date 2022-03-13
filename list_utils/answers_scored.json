@@ -1,0 +1,9240 @@
+{
+    "answers": [
+        {
+            "word": "cigar",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "rebut",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "sissy",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "humph",
+            "zipf_freq": 2.18
+        },
+        {
+            "word": "awake",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "blush",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "focal",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "evade",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "naval",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "serve",
+            "zipf_freq": 4.85
+        },
+        {
+            "word": "heath",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "dwarf",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "model",
+            "zipf_freq": 5.13
+        },
+        {
+            "word": "karma",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "stink",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "grade",
+            "zipf_freq": 4.8
+        },
+        {
+            "word": "quiet",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "bench",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "abate",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "feign",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "major",
+            "zipf_freq": 5.3
+        },
+        {
+            "word": "death",
+            "zipf_freq": 5.4
+        },
+        {
+            "word": "fresh",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "crust",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "stool",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "colon",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "abase",
+            "zipf_freq": 1.56
+        },
+        {
+            "word": "marry",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "react",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "batty",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "pride",
+            "zipf_freq": 4.49
+        },
+        {
+            "word": "floss",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "helix",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "croak",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "staff",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "paper",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "unfed",
+            "zipf_freq": 1.63
+        },
+        {
+            "word": "whelp",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "trawl",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "outdo",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "adobe",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "crazy",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "sower",
+            "zipf_freq": 2.17
+        },
+        {
+            "word": "repay",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "digit",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "crate",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "cluck",
+            "zipf_freq": 2.32
+        },
+        {
+            "word": "spike",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "mimic",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "pound",
+            "zipf_freq": 4.32
+        },
+        {
+            "word": "maxim",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "linen",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "unmet",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "flesh",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "booby",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "forth",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "first",
+            "zipf_freq": 6.11
+        },
+        {
+            "word": "stand",
+            "zipf_freq": 5.14
+        },
+        {
+            "word": "belly",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "ivory",
+            "zipf_freq": 3.85
+        },
+        {
+            "word": "seedy",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "print",
+            "zipf_freq": 4.54
+        },
+        {
+            "word": "yearn",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "drain",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "bribe",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "stout",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "panel",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "crass",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "flume",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "offal",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "agree",
+            "zipf_freq": 4.97
+        },
+        {
+            "word": "error",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "swirl",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "argue",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "bleed",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "delta",
+            "zipf_freq": 4.12
+        },
+        {
+            "word": "flick",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "totem",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "wooer",
+            "zipf_freq": 1.18
+        },
+        {
+            "word": "front",
+            "zipf_freq": 5.28
+        },
+        {
+            "word": "shrub",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "parry",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "biome",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "lapel",
+            "zipf_freq": 2.77
+        },
+        {
+            "word": "start",
+            "zipf_freq": 5.56
+        },
+        {
+            "word": "greet",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "goner",
+            "zipf_freq": 2.45
+        },
+        {
+            "word": "golem",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "lusty",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "loopy",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "round",
+            "zipf_freq": 5.14
+        },
+        {
+            "word": "audit",
+            "zipf_freq": 4.04
+        },
+        {
+            "word": "lying",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "gamma",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "labor",
+            "zipf_freq": 4.77
+        },
+        {
+            "word": "islet",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "civic",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "forge",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "corny",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "moult",
+            "zipf_freq": 2.25
+        },
+        {
+            "word": "basic",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "salad",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "agate",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "spicy",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "spray",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "essay",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "fjord",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "spend",
+            "zipf_freq": 4.97
+        },
+        {
+            "word": "kebab",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "guild",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "aback",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "motor",
+            "zipf_freq": 4.53
+        },
+        {
+            "word": "alone",
+            "zipf_freq": 5.16
+        },
+        {
+            "word": "hatch",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "hyper",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "thumb",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "dowry",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "ought",
+            "zipf_freq": 4.35
+        },
+        {
+            "word": "belch",
+            "zipf_freq": 2.27
+        },
+        {
+            "word": "dutch",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "pilot",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "tweed",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "comet",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "jaunt",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "enema",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "steed",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "abyss",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "growl",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "fling",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "dozen",
+            "zipf_freq": 4.35
+        },
+        {
+            "word": "boozy",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "erode",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "world",
+            "zipf_freq": 5.89
+        },
+        {
+            "word": "gouge",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "click",
+            "zipf_freq": 4.82
+        },
+        {
+            "word": "briar",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "great",
+            "zipf_freq": 5.88
+        },
+        {
+            "word": "altar",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "pulpy",
+            "zipf_freq": 2.23
+        },
+        {
+            "word": "blurt",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "coast",
+            "zipf_freq": 4.87
+        },
+        {
+            "word": "duchy",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "groin",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "fixer",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "group",
+            "zipf_freq": 5.57
+        },
+        {
+            "word": "rogue",
+            "zipf_freq": 3.89
+        },
+        {
+            "word": "badly",
+            "zipf_freq": 4.44
+        },
+        {
+            "word": "smart",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "pithy",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "gaudy",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "chill",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "heron",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "vodka",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "finer",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "surer",
+            "zipf_freq": 2.18
+        },
+        {
+            "word": "radio",
+            "zipf_freq": 5.01
+        },
+        {
+            "word": "rouge",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "perch",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "retch",
+            "zipf_freq": 2.04
+        },
+        {
+            "word": "wrote",
+            "zipf_freq": 5.04
+        },
+        {
+            "word": "clock",
+            "zipf_freq": 4.43
+        },
+        {
+            "word": "tilde",
+            "zipf_freq": 2.19
+        },
+        {
+            "word": "store",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "prove",
+            "zipf_freq": 4.77
+        },
+        {
+            "word": "bring",
+            "zipf_freq": 5.27
+        },
+        {
+            "word": "solve",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "cheat",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "grime",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "exult",
+            "zipf_freq": 1.8
+        },
+        {
+            "word": "usher",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "epoch",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "triad",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "break",
+            "zipf_freq": 5.18
+        },
+        {
+            "word": "rhino",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "viral",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "conic",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "masse",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "sonic",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "vital",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "trace",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "using",
+            "zipf_freq": 5.47
+        },
+        {
+            "word": "peach",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "champ",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "baton",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "brake",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "pluck",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "craze",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "gripe",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "weary",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "picky",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "acute",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "ferry",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "aside",
+            "zipf_freq": 4.59
+        },
+        {
+            "word": "tapir",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "troll",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "unify",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "rebus",
+            "zipf_freq": 2.53
+        },
+        {
+            "word": "boost",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "truss",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "siege",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "tiger",
+            "zipf_freq": 4.3
+        },
+        {
+            "word": "banal",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "slump",
+            "zipf_freq": 3.36
+        },
+        {
+            "word": "crank",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "gorge",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "query",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "drink",
+            "zipf_freq": 4.9
+        },
+        {
+            "word": "favor",
+            "zipf_freq": 4.58
+        },
+        {
+            "word": "abbey",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "tangy",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "panic",
+            "zipf_freq": 4.26
+        },
+        {
+            "word": "solar",
+            "zipf_freq": 4.53
+        },
+        {
+            "word": "shire",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "proxy",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "point",
+            "zipf_freq": 5.54
+        },
+        {
+            "word": "robot",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "prick",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "wince",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "crimp",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "knoll",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "sugar",
+            "zipf_freq": 4.68
+        },
+        {
+            "word": "whack",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "mount",
+            "zipf_freq": 4.47
+        },
+        {
+            "word": "perky",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "could",
+            "zipf_freq": 6.06
+        },
+        {
+            "word": "wrung",
+            "zipf_freq": 2.36
+        },
+        {
+            "word": "light",
+            "zipf_freq": 5.33
+        },
+        {
+            "word": "those",
+            "zipf_freq": 5.9
+        },
+        {
+            "word": "moist",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "shard",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "pleat",
+            "zipf_freq": 2.19
+        },
+        {
+            "word": "aloft",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "skill",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "elder",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "frame",
+            "zipf_freq": 4.58
+        },
+        {
+            "word": "humor",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "pause",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "ulcer",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "ultra",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "robin",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "cynic",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "aroma",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "caulk",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "shake",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "dodge",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "swill",
+            "zipf_freq": 2.32
+        },
+        {
+            "word": "tacit",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "other",
+            "zipf_freq": 6.16
+        },
+        {
+            "word": "thorn",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "trove",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "bloke",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "vivid",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "spill",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "chant",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "choke",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "rupee",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "nasty",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "mourn",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "ahead",
+            "zipf_freq": 5.01
+        },
+        {
+            "word": "brine",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "cloth",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "hoard",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "sweet",
+            "zipf_freq": 4.91
+        },
+        {
+            "word": "month",
+            "zipf_freq": 5.25
+        },
+        {
+            "word": "lapse",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "watch",
+            "zipf_freq": 5.34
+        },
+        {
+            "word": "today",
+            "zipf_freq": 5.55
+        },
+        {
+            "word": "focus",
+            "zipf_freq": 5.0
+        },
+        {
+            "word": "smelt",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "tease",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "cater",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "movie",
+            "zipf_freq": 5.16
+        },
+        {
+            "word": "saute",
+            "zipf_freq": 2.46
+        },
+        {
+            "word": "allow",
+            "zipf_freq": 5.01
+        },
+        {
+            "word": "renew",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "their",
+            "zipf_freq": 6.33
+        },
+        {
+            "word": "slosh",
+            "zipf_freq": 2.1
+        },
+        {
+            "word": "purge",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "chest",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "depot",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "epoxy",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "nymph",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "found",
+            "zipf_freq": 5.68
+        },
+        {
+            "word": "shall",
+            "zipf_freq": 5.03
+        },
+        {
+            "word": "harry",
+            "zipf_freq": 4.72
+        },
+        {
+            "word": "stove",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "lowly",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "snout",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "trope",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "fewer",
+            "zipf_freq": 4.31
+        },
+        {
+            "word": "shawl",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "natal",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "comma",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "foray",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "scare",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "stair",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "black",
+            "zipf_freq": 5.46
+        },
+        {
+            "word": "squad",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "royal",
+            "zipf_freq": 4.85
+        },
+        {
+            "word": "chunk",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "mince",
+            "zipf_freq": 3.02
+        },
+        {
+            "word": "shame",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "cheek",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "ample",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "flair",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "foyer",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "cargo",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "oxide",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "plant",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "olive",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "inert",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "askew",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "heist",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "shown",
+            "zipf_freq": 4.9
+        },
+        {
+            "word": "zesty",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "hasty",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "trash",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "fella",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "larva",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "forgo",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "story",
+            "zipf_freq": 5.45
+        },
+        {
+            "word": "hairy",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "train",
+            "zipf_freq": 4.96
+        },
+        {
+            "word": "homer",
+            "zipf_freq": 3.89
+        },
+        {
+            "word": "badge",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "midst",
+            "zipf_freq": 3.89
+        },
+        {
+            "word": "canny",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "fetus",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "butch",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "farce",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "slung",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "tipsy",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "metal",
+            "zipf_freq": 4.82
+        },
+        {
+            "word": "yield",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "delve",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "being",
+            "zipf_freq": 5.95
+        },
+        {
+            "word": "scour",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "glass",
+            "zipf_freq": 4.85
+        },
+        {
+            "word": "gamer",
+            "zipf_freq": 3.62
+        },
+        {
+            "word": "scrap",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "money",
+            "zipf_freq": 5.64
+        },
+        {
+            "word": "hinge",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "album",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "vouch",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "asset",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "tiara",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "crept",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "bayou",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "atoll",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "manor",
+            "zipf_freq": 3.81
+        },
+        {
+            "word": "creak",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "showy",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "phase",
+            "zipf_freq": 4.64
+        },
+        {
+            "word": "froth",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "depth",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "gloom",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "flood",
+            "zipf_freq": 4.34
+        },
+        {
+            "word": "trait",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "girth",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "piety",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "payer",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "goose",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "float",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "donor",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "atone",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "primo",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "apron",
+            "zipf_freq": 3.36
+        },
+        {
+            "word": "blown",
+            "zipf_freq": 4.21
+        },
+        {
+            "word": "cacao",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "loser",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "input",
+            "zipf_freq": 4.35
+        },
+        {
+            "word": "gloat",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "awful",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "brink",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "smite",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "beady",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "rusty",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "retro",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "droll",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "gawky",
+            "zipf_freq": 1.91
+        },
+        {
+            "word": "hutch",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "pinto",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "gaily",
+            "zipf_freq": 2.2
+        },
+        {
+            "word": "egret",
+            "zipf_freq": 2.32
+        },
+        {
+            "word": "lilac",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "sever",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "field",
+            "zipf_freq": 5.24
+        },
+        {
+            "word": "fluff",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "hydro",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "flack",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "agape",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "voice",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "stead",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "stalk",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "berth",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "madam",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "night",
+            "zipf_freq": 5.61
+        },
+        {
+            "word": "bland",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "liver",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "wedge",
+            "zipf_freq": 3.62
+        },
+        {
+            "word": "augur",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "roomy",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "wacky",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "flock",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "angry",
+            "zipf_freq": 4.66
+        },
+        {
+            "word": "bobby",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "trite",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "aphid",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "tryst",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "midge",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "power",
+            "zipf_freq": 5.52
+        },
+        {
+            "word": "elope",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "cinch",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "motto",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "stomp",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "upset",
+            "zipf_freq": 4.61
+        },
+        {
+            "word": "bluff",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "cramp",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "quart",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "coyly",
+            "zipf_freq": 2.08
+        },
+        {
+            "word": "youth",
+            "zipf_freq": 4.75
+        },
+        {
+            "word": "rhyme",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "buggy",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "alien",
+            "zipf_freq": 4.29
+        },
+        {
+            "word": "smear",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "unfit",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "patty",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "cling",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "glean",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "label",
+            "zipf_freq": 4.43
+        },
+        {
+            "word": "hunky",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "khaki",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "poker",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "gruel",
+            "zipf_freq": 2.44
+        },
+        {
+            "word": "twice",
+            "zipf_freq": 4.84
+        },
+        {
+            "word": "twang",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "shrug",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "treat",
+            "zipf_freq": 4.75
+        },
+        {
+            "word": "unlit",
+            "zipf_freq": 2.44
+        },
+        {
+            "word": "waste",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "merit",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "woven",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "octal",
+            "zipf_freq": 2.13
+        },
+        {
+            "word": "needy",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "clown",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "widow",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "irony",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "ruder",
+            "zipf_freq": 2.13
+        },
+        {
+            "word": "gauze",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "chief",
+            "zipf_freq": 5.11
+        },
+        {
+            "word": "onset",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "prize",
+            "zipf_freq": 4.59
+        },
+        {
+            "word": "fungi",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "charm",
+            "zipf_freq": 4.12
+        },
+        {
+            "word": "gully",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "inter",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "whoop",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "taunt",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "leery",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "class",
+            "zipf_freq": 5.36
+        },
+        {
+            "word": "theme",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "lofty",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "tibia",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "booze",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "alpha",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "thyme",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "eclat",
+            "zipf_freq": 1.67
+        },
+        {
+            "word": "doubt",
+            "zipf_freq": 4.9
+        },
+        {
+            "word": "parer",
+            "zipf_freq": 1.55
+        },
+        {
+            "word": "chute",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "stick",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "trice",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "alike",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "sooth",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "recap",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "saint",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "liege",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "glory",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "grate",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "admit",
+            "zipf_freq": 4.58
+        },
+        {
+            "word": "brisk",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "soggy",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "usurp",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "scald",
+            "zipf_freq": 2.17
+        },
+        {
+            "word": "scorn",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "leave",
+            "zipf_freq": 5.34
+        },
+        {
+            "word": "twine",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "sting",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "bough",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "marsh",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "sloth",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "dandy",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "vigor",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "howdy",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "enjoy",
+            "zipf_freq": 5.09
+        },
+        {
+            "word": "valid",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "ionic",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "equal",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "unset",
+            "zipf_freq": 1.82
+        },
+        {
+            "word": "floor",
+            "zipf_freq": 4.94
+        },
+        {
+            "word": "catch",
+            "zipf_freq": 4.87
+        },
+        {
+            "word": "spade",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "stein",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "exist",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "quirk",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "denim",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "grove",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "spiel",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "mummy",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "fault",
+            "zipf_freq": 4.64
+        },
+        {
+            "word": "foggy",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "flout",
+            "zipf_freq": 2.25
+        },
+        {
+            "word": "carry",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "sneak",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "libel",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "waltz",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "aptly",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "piney",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "inept",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "aloud",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "photo",
+            "zipf_freq": 4.97
+        },
+        {
+            "word": "dream",
+            "zipf_freq": 4.91
+        },
+        {
+            "word": "stale",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "vomit",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "ombre",
+            "zipf_freq": 2.59
+        },
+        {
+            "word": "fanny",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "unite",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "snarl",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "baker",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "there",
+            "zipf_freq": 6.31
+        },
+        {
+            "word": "glyph",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "pooch",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "hippy",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "spell",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "folly",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "louse",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "gulch",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "vault",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "godly",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "threw",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "fleet",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "grave",
+            "zipf_freq": 4.31
+        },
+        {
+            "word": "inane",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "shock",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "crave",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "spite",
+            "zipf_freq": 4.04
+        },
+        {
+            "word": "valve",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "skimp",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "claim",
+            "zipf_freq": 4.95
+        },
+        {
+            "word": "rainy",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "musty",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "pique",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "daddy",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "quasi",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "arise",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "aging",
+            "zipf_freq": 4.04
+        },
+        {
+            "word": "valet",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "opium",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "avert",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "stuck",
+            "zipf_freq": 4.68
+        },
+        {
+            "word": "recut",
+            "zipf_freq": 2.13
+        },
+        {
+            "word": "mulch",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "genre",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "plume",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "rifle",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "count",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "incur",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "total",
+            "zipf_freq": 5.21
+        },
+        {
+            "word": "wrest",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "mocha",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "deter",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "study",
+            "zipf_freq": 5.26
+        },
+        {
+            "word": "lover",
+            "zipf_freq": 4.26
+        },
+        {
+            "word": "safer",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "rivet",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "funny",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "smoke",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "mound",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "undue",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "sedan",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "pagan",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "swine",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "guile",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "gusty",
+            "zipf_freq": 2.59
+        },
+        {
+            "word": "equip",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "tough",
+            "zipf_freq": 4.77
+        },
+        {
+            "word": "canoe",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "chaos",
+            "zipf_freq": 4.27
+        },
+        {
+            "word": "covet",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "human",
+            "zipf_freq": 5.35
+        },
+        {
+            "word": "udder",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "lunch",
+            "zipf_freq": 4.66
+        },
+        {
+            "word": "blast",
+            "zipf_freq": 4.32
+        },
+        {
+            "word": "stray",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "manga",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "melee",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "lefty",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "quick",
+            "zipf_freq": 4.98
+        },
+        {
+            "word": "paste",
+            "zipf_freq": 3.91
+        },
+        {
+            "word": "given",
+            "zipf_freq": 5.41
+        },
+        {
+            "word": "octet",
+            "zipf_freq": 2.24
+        },
+        {
+            "word": "risen",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "groan",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "leaky",
+            "zipf_freq": 3.06
+        },
+        {
+            "word": "grind",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "carve",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "loose",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "sadly",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "spilt",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "apple",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "slack",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "honey",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "final",
+            "zipf_freq": 5.28
+        },
+        {
+            "word": "sheen",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "eerie",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "minty",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "slick",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "derby",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "wharf",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "spelt",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "coach",
+            "zipf_freq": 4.96
+        },
+        {
+            "word": "erupt",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "singe",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "price",
+            "zipf_freq": 5.23
+        },
+        {
+            "word": "spawn",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "fairy",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "jiffy",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "filmy",
+            "zipf_freq": 2.13
+        },
+        {
+            "word": "stack",
+            "zipf_freq": 4.05
+        },
+        {
+            "word": "chose",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "sleep",
+            "zipf_freq": 5.05
+        },
+        {
+            "word": "ardor",
+            "zipf_freq": 2.34
+        },
+        {
+            "word": "nanny",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "niece",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "woozy",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "handy",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "grace",
+            "zipf_freq": 4.56
+        },
+        {
+            "word": "ditto",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "stank",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "cream",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "usual",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "diode",
+            "zipf_freq": 3.06
+        },
+        {
+            "word": "valor",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "angle",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "ninja",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "muddy",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "chase",
+            "zipf_freq": 4.44
+        },
+        {
+            "word": "reply",
+            "zipf_freq": 4.5
+        },
+        {
+            "word": "prone",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "spoil",
+            "zipf_freq": 3.81
+        },
+        {
+            "word": "heart",
+            "zipf_freq": 5.31
+        },
+        {
+            "word": "shade",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "diner",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "arson",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "onion",
+            "zipf_freq": 3.89
+        },
+        {
+            "word": "sleet",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "dowel",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "couch",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "palsy",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "bowel",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "smile",
+            "zipf_freq": 4.64
+        },
+        {
+            "word": "evoke",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "creek",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "lance",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "eagle",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "idiot",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "siren",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "built",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "embed",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "award",
+            "zipf_freq": 4.88
+        },
+        {
+            "word": "dross",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "annul",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "goody",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "frown",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "patio",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "laden",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "humid",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "elite",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "lymph",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "edify",
+            "zipf_freq": 1.96
+        },
+        {
+            "word": "might",
+            "zipf_freq": 5.66
+        },
+        {
+            "word": "reset",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "visit",
+            "zipf_freq": 5.04
+        },
+        {
+            "word": "gusto",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "purse",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "vapor",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "crock",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "write",
+            "zipf_freq": 5.03
+        },
+        {
+            "word": "sunny",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "loath",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "chaff",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "slide",
+            "zipf_freq": 4.3
+        },
+        {
+            "word": "queer",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "venom",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "stamp",
+            "zipf_freq": 4.11
+        },
+        {
+            "word": "sorry",
+            "zipf_freq": 5.18
+        },
+        {
+            "word": "still",
+            "zipf_freq": 5.92
+        },
+        {
+            "word": "acorn",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "aping",
+            "zipf_freq": 2.09
+        },
+        {
+            "word": "pushy",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "tamer",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "hater",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "mania",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "awoke",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "brawn",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "swift",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "exile",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "birch",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "lucky",
+            "zipf_freq": 4.77
+        },
+        {
+            "word": "freer",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "risky",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "ghost",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "plier",
+            "zipf_freq": 1.66
+        },
+        {
+            "word": "lunar",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "winch",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "snare",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "nurse",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "house",
+            "zipf_freq": 5.71
+        },
+        {
+            "word": "borax",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "nicer",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "lurch",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "exalt",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "about",
+            "zipf_freq": 6.4
+        },
+        {
+            "word": "savvy",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "toxin",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "tunic",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "pried",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "inlay",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "chump",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "lanky",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "cress",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "eater",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "elude",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "cycle",
+            "zipf_freq": 4.6
+        },
+        {
+            "word": "kitty",
+            "zipf_freq": 3.98
+        },
+        {
+            "word": "boule",
+            "zipf_freq": 2.12
+        },
+        {
+            "word": "moron",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "tenet",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "place",
+            "zipf_freq": 5.71
+        },
+        {
+            "word": "lobby",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "plush",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "vigil",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "index",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "blink",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "clung",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "qualm",
+            "zipf_freq": 1.89
+        },
+        {
+            "word": "croup",
+            "zipf_freq": 2.23
+        },
+        {
+            "word": "clink",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "juicy",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "stage",
+            "zipf_freq": 5.1
+        },
+        {
+            "word": "decay",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "nerve",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "flier",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "shaft",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "crook",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "clean",
+            "zipf_freq": 4.97
+        },
+        {
+            "word": "china",
+            "zipf_freq": 5.1
+        },
+        {
+            "word": "ridge",
+            "zipf_freq": 4.12
+        },
+        {
+            "word": "vowel",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "gnome",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "snuck",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "icing",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "spiny",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "rigor",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "snail",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "flown",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "rabid",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "prose",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "thank",
+            "zipf_freq": 5.48
+        },
+        {
+            "word": "poppy",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "budge",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "fiber",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "moldy",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "dowdy",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "kneel",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "track",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "caddy",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "quell",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "dumpy",
+            "zipf_freq": 2.32
+        },
+        {
+            "word": "paler",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "swore",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "rebar",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "scuba",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "splat",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "flyer",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "horny",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "mason",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "doing",
+            "zipf_freq": 5.6
+        },
+        {
+            "word": "ozone",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "amply",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "molar",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "ovary",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "beset",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "queue",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "cliff",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "magic",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "truce",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "sport",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "fritz",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "edict",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "twirl",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "verse",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "llama",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "eaten",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "range",
+            "zipf_freq": 5.12
+        },
+        {
+            "word": "whisk",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "hovel",
+            "zipf_freq": 2.31
+        },
+        {
+            "word": "rehab",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "macaw",
+            "zipf_freq": 2.33
+        },
+        {
+            "word": "sigma",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "spout",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "verve",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "sushi",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "dying",
+            "zipf_freq": 4.63
+        },
+        {
+            "word": "fetid",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "brain",
+            "zipf_freq": 4.94
+        },
+        {
+            "word": "buddy",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "thump",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "scion",
+            "zipf_freq": 3.03
+        },
+        {
+            "word": "candy",
+            "zipf_freq": 4.29
+        },
+        {
+            "word": "chord",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "basin",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "march",
+            "zipf_freq": 5.26
+        },
+        {
+            "word": "crowd",
+            "zipf_freq": 4.7
+        },
+        {
+            "word": "arbor",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "gayly",
+            "zipf_freq": 1.17
+        },
+        {
+            "word": "musky",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "stain",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "dally",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "bless",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "bravo",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "stung",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "title",
+            "zipf_freq": 5.1
+        },
+        {
+            "word": "ruler",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "kiosk",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "blond",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "ennui",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "layer",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "fluid",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "tatty",
+            "zipf_freq": 2.19
+        },
+        {
+            "word": "score",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "cutie",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "zebra",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "barge",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "matey",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "bluer",
+            "zipf_freq": 2.22
+        },
+        {
+            "word": "aider",
+            "zipf_freq": 1.94
+        },
+        {
+            "word": "shook",
+            "zipf_freq": 4.05
+        },
+        {
+            "word": "river",
+            "zipf_freq": 5.03
+        },
+        {
+            "word": "privy",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "betel",
+            "zipf_freq": 2.53
+        },
+        {
+            "word": "frisk",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "bongo",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "begun",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "azure",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "weave",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "genie",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "sound",
+            "zipf_freq": 5.15
+        },
+        {
+            "word": "glove",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "braid",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "scope",
+            "zipf_freq": 4.26
+        },
+        {
+            "word": "wryly",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "rover",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "assay",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "ocean",
+            "zipf_freq": 4.7
+        },
+        {
+            "word": "bloom",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "irate",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "later",
+            "zipf_freq": 5.49
+        },
+        {
+            "word": "woken",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "silky",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "wreck",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "dwelt",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "slate",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "smack",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "solid",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "amaze",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "hazel",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "wrist",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "jolly",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "globe",
+            "zipf_freq": 4.28
+        },
+        {
+            "word": "flint",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "rouse",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "civil",
+            "zipf_freq": 4.93
+        },
+        {
+            "word": "vista",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "relax",
+            "zipf_freq": 4.29
+        },
+        {
+            "word": "cover",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "alive",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "beech",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "jetty",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "bliss",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "vocal",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "often",
+            "zipf_freq": 5.41
+        },
+        {
+            "word": "dolly",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "eight",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "joker",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "since",
+            "zipf_freq": 5.75
+        },
+        {
+            "word": "event",
+            "zipf_freq": 5.18
+        },
+        {
+            "word": "ensue",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "shunt",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "diver",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "poser",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "worst",
+            "zipf_freq": 4.93
+        },
+        {
+            "word": "sweep",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "alley",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "creed",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "anime",
+            "zipf_freq": 4.26
+        },
+        {
+            "word": "leafy",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "bosom",
+            "zipf_freq": 3.05
+        },
+        {
+            "word": "dunce",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "stare",
+            "zipf_freq": 3.91
+        },
+        {
+            "word": "pudgy",
+            "zipf_freq": 2.47
+        },
+        {
+            "word": "waive",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "choir",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "stood",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "spoke",
+            "zipf_freq": 4.61
+        },
+        {
+            "word": "outgo",
+            "zipf_freq": 1.34
+        },
+        {
+            "word": "delay",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "bilge",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "ideal",
+            "zipf_freq": 4.44
+        },
+        {
+            "word": "clasp",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "seize",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "hotly",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "laugh",
+            "zipf_freq": 4.66
+        },
+        {
+            "word": "sieve",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "block",
+            "zipf_freq": 4.88
+        },
+        {
+            "word": "meant",
+            "zipf_freq": 4.94
+        },
+        {
+            "word": "grape",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "noose",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "hardy",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "shied",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "drawl",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "daisy",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "putty",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "strut",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "burnt",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "tulip",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "crick",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "idyll",
+            "zipf_freq": 2.44
+        },
+        {
+            "word": "vixen",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "furor",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "geeky",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "cough",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "naive",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "shoal",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "stork",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "bathe",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "aunty",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "check",
+            "zipf_freq": 5.31
+        },
+        {
+            "word": "prime",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "brass",
+            "zipf_freq": 4.05
+        },
+        {
+            "word": "outer",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "furry",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "razor",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "elect",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "evict",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "imply",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "demur",
+            "zipf_freq": 1.78
+        },
+        {
+            "word": "quota",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "haven",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "cavil",
+            "zipf_freq": 2.04
+        },
+        {
+            "word": "swear",
+            "zipf_freq": 4.51
+        },
+        {
+            "word": "crump",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "dough",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "gavel",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "wagon",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "salon",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "nudge",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "harem",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "pitch",
+            "zipf_freq": 4.43
+        },
+        {
+            "word": "sworn",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "pupil",
+            "zipf_freq": 3.81
+        },
+        {
+            "word": "excel",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "stony",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "cabin",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "unzip",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "queen",
+            "zipf_freq": 4.86
+        },
+        {
+            "word": "trout",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "polyp",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "earth",
+            "zipf_freq": 5.06
+        },
+        {
+            "word": "storm",
+            "zipf_freq": 4.66
+        },
+        {
+            "word": "until",
+            "zipf_freq": 5.61
+        },
+        {
+            "word": "taper",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "enter",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "child",
+            "zipf_freq": 5.3
+        },
+        {
+            "word": "adopt",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "minor",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "fatty",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "husky",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "brave",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "filet",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "slime",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "glint",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "tread",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "steal",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "regal",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "guest",
+            "zipf_freq": 4.58
+        },
+        {
+            "word": "every",
+            "zipf_freq": 5.79
+        },
+        {
+            "word": "murky",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "share",
+            "zipf_freq": 5.2
+        },
+        {
+            "word": "spore",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "hoist",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "buxom",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "inner",
+            "zipf_freq": 4.5
+        },
+        {
+            "word": "otter",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "dimly",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "level",
+            "zipf_freq": 5.41
+        },
+        {
+            "word": "sumac",
+            "zipf_freq": 2.34
+        },
+        {
+            "word": "donut",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "stilt",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "arena",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "sheet",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "scrub",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "fancy",
+            "zipf_freq": 4.35
+        },
+        {
+            "word": "slimy",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "pearl",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "silly",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "porch",
+            "zipf_freq": 3.85
+        },
+        {
+            "word": "dingo",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "sepia",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "amble",
+            "zipf_freq": 2.3
+        },
+        {
+            "word": "shady",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "bread",
+            "zipf_freq": 4.5
+        },
+        {
+            "word": "friar",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "reign",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "dairy",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "quill",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "cross",
+            "zipf_freq": 5.0
+        },
+        {
+            "word": "brood",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "tuber",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "shear",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "posit",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "blank",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "villa",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "shank",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "piggy",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "freak",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "which",
+            "zipf_freq": 6.3
+        },
+        {
+            "word": "among",
+            "zipf_freq": 5.31
+        },
+        {
+            "word": "fecal",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "shell",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "would",
+            "zipf_freq": 6.27
+        },
+        {
+            "word": "algae",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "large",
+            "zipf_freq": 5.39
+        },
+        {
+            "word": "rabbi",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "agony",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "amuse",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "bushy",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "copse",
+            "zipf_freq": 2.34
+        },
+        {
+            "word": "swoon",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "knife",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "pouch",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "ascot",
+            "zipf_freq": 3.06
+        },
+        {
+            "word": "plane",
+            "zipf_freq": 4.72
+        },
+        {
+            "word": "crown",
+            "zipf_freq": 4.56
+        },
+        {
+            "word": "urban",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "snide",
+            "zipf_freq": 2.59
+        },
+        {
+            "word": "relay",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "abide",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "viola",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "rajah",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "straw",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "dilly",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "crash",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "amass",
+            "zipf_freq": 2.77
+        },
+        {
+            "word": "third",
+            "zipf_freq": 5.32
+        },
+        {
+            "word": "trick",
+            "zipf_freq": 4.48
+        },
+        {
+            "word": "tutor",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "woody",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "blurb",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "grief",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "disco",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "where",
+            "zipf_freq": 6.0
+        },
+        {
+            "word": "sassy",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "beach",
+            "zipf_freq": 4.92
+        },
+        {
+            "word": "sauna",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "comic",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "clued",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "creep",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "caste",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "graze",
+            "zipf_freq": 3.02
+        },
+        {
+            "word": "snuff",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "frock",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "gonad",
+            "zipf_freq": 1.88
+        },
+        {
+            "word": "drunk",
+            "zipf_freq": 4.61
+        },
+        {
+            "word": "prong",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "lurid",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "steel",
+            "zipf_freq": 4.71
+        },
+        {
+            "word": "halve",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "buyer",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "vinyl",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "utile",
+            "zipf_freq": 1.66
+        },
+        {
+            "word": "smell",
+            "zipf_freq": 4.49
+        },
+        {
+            "word": "adage",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "worry",
+            "zipf_freq": 4.84
+        },
+        {
+            "word": "tasty",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "local",
+            "zipf_freq": 5.43
+        },
+        {
+            "word": "trade",
+            "zipf_freq": 5.12
+        },
+        {
+            "word": "finch",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "ashen",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "modal",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "gaunt",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "clove",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "enact",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "adorn",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "roast",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "speck",
+            "zipf_freq": 3.02
+        },
+        {
+            "word": "sheik",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "missy",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "grunt",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "snoop",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "party",
+            "zipf_freq": 5.49
+        },
+        {
+            "word": "touch",
+            "zipf_freq": 4.91
+        },
+        {
+            "word": "mafia",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "emcee",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "array",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "south",
+            "zipf_freq": 5.4
+        },
+        {
+            "word": "vapid",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "jelly",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "skulk",
+            "zipf_freq": 1.89
+        },
+        {
+            "word": "angst",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "tubal",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "lower",
+            "zipf_freq": 5.11
+        },
+        {
+            "word": "crest",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "sweat",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "cyber",
+            "zipf_freq": 3.98
+        },
+        {
+            "word": "adore",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "tardy",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "swami",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "notch",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "groom",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "roach",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "hitch",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "young",
+            "zipf_freq": 5.43
+        },
+        {
+            "word": "align",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "ready",
+            "zipf_freq": 5.28
+        },
+        {
+            "word": "frond",
+            "zipf_freq": 2.23
+        },
+        {
+            "word": "strap",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "puree",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "realm",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "venue",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "swarm",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "offer",
+            "zipf_freq": 5.05
+        },
+        {
+            "word": "seven",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "dryer",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "diary",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "dryly",
+            "zipf_freq": 2.33
+        },
+        {
+            "word": "drank",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "acrid",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "heady",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "theta",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "junto",
+            "zipf_freq": 1.88
+        },
+        {
+            "word": "pixie",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "quoth",
+            "zipf_freq": 2.08
+        },
+        {
+            "word": "bonus",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "shalt",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "penne",
+            "zipf_freq": 2.47
+        },
+        {
+            "word": "amend",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "datum",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "build",
+            "zipf_freq": 5.04
+        },
+        {
+            "word": "piano",
+            "zipf_freq": 4.31
+        },
+        {
+            "word": "shelf",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "lodge",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "suing",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "rearm",
+            "zipf_freq": 2.14
+        },
+        {
+            "word": "coral",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "ramen",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "worth",
+            "zipf_freq": 5.16
+        },
+        {
+            "word": "psalm",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "infer",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "overt",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "mayor",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "ovoid",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "glide",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "usage",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "poise",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "randy",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "chuck",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "prank",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "fishy",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "tooth",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "ether",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "drove",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "idler",
+            "zipf_freq": 2.3
+        },
+        {
+            "word": "swath",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "stint",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "while",
+            "zipf_freq": 5.86
+        },
+        {
+            "word": "begat",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "apply",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "slang",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "tarot",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "radar",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "credo",
+            "zipf_freq": 2.77
+        },
+        {
+            "word": "aware",
+            "zipf_freq": 4.78
+        },
+        {
+            "word": "canon",
+            "zipf_freq": 4.11
+        },
+        {
+            "word": "shift",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "timer",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "bylaw",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "serum",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "three",
+            "zipf_freq": 5.78
+        },
+        {
+            "word": "steak",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "iliac",
+            "zipf_freq": 2.36
+        },
+        {
+            "word": "shirk",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "blunt",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "puppy",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "penal",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "joist",
+            "zipf_freq": 2.25
+        },
+        {
+            "word": "bunny",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "shape",
+            "zipf_freq": 4.72
+        },
+        {
+            "word": "beget",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "wheel",
+            "zipf_freq": 4.5
+        },
+        {
+            "word": "adept",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "stunt",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "stole",
+            "zipf_freq": 4.21
+        },
+        {
+            "word": "topaz",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "chore",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "fluke",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "afoot",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "bloat",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "bully",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "dense",
+            "zipf_freq": 3.98
+        },
+        {
+            "word": "caper",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "sneer",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "boxer",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "jumbo",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "lunge",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "space",
+            "zipf_freq": 5.23
+        },
+        {
+            "word": "avail",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "short",
+            "zipf_freq": 5.33
+        },
+        {
+            "word": "slurp",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "loyal",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "flirt",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "pizza",
+            "zipf_freq": 4.43
+        },
+        {
+            "word": "conch",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "tempo",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "droop",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "plate",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "bible",
+            "zipf_freq": 4.54
+        },
+        {
+            "word": "plunk",
+            "zipf_freq": 2.11
+        },
+        {
+            "word": "afoul",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "savoy",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "steep",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "agile",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "stake",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "dwell",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "knave",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "beard",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "arose",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "motif",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "smash",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "broil",
+            "zipf_freq": 2.44
+        },
+        {
+            "word": "glare",
+            "zipf_freq": 3.36
+        },
+        {
+            "word": "shove",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "baggy",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "mammy",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "swamp",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "along",
+            "zipf_freq": 5.38
+        },
+        {
+            "word": "rugby",
+            "zipf_freq": 4.4
+        },
+        {
+            "word": "wager",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "quack",
+            "zipf_freq": 3.06
+        },
+        {
+            "word": "squat",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "snaky",
+            "zipf_freq": 1.72
+        },
+        {
+            "word": "debit",
+            "zipf_freq": 3.62
+        },
+        {
+            "word": "mange",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "skate",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "ninth",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "joust",
+            "zipf_freq": 2.47
+        },
+        {
+            "word": "tramp",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "spurn",
+            "zipf_freq": 2.36
+        },
+        {
+            "word": "medal",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "micro",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "rebel",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "flank",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "learn",
+            "zipf_freq": 5.17
+        },
+        {
+            "word": "nadir",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "maple",
+            "zipf_freq": 3.86
+        },
+        {
+            "word": "comfy",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "remit",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "gruff",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "ester",
+            "zipf_freq": 3.06
+        },
+        {
+            "word": "least",
+            "zipf_freq": 5.44
+        },
+        {
+            "word": "mogul",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "fetch",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "cause",
+            "zipf_freq": 5.35
+        },
+        {
+            "word": "oaken",
+            "zipf_freq": 1.94
+        },
+        {
+            "word": "aglow",
+            "zipf_freq": 2.21
+        },
+        {
+            "word": "meaty",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "gaffe",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "shyly",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "racer",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "prowl",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "thief",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "stern",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "poesy",
+            "zipf_freq": 1.66
+        },
+        {
+            "word": "rocky",
+            "zipf_freq": 4.16
+        },
+        {
+            "word": "tweet",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "waist",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "spire",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "grope",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "havoc",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "patsy",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "truly",
+            "zipf_freq": 4.87
+        },
+        {
+            "word": "forty",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "deity",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "uncle",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "swish",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "giver",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "preen",
+            "zipf_freq": 2.16
+        },
+        {
+            "word": "bevel",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "lemur",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "draft",
+            "zipf_freq": 4.61
+        },
+        {
+            "word": "slope",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "annoy",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "lingo",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "bleak",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "ditty",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "curly",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "cedar",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "dirge",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "grown",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "horde",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "drool",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "shuck",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "crypt",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "cumin",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "stock",
+            "zipf_freq": 4.93
+        },
+        {
+            "word": "gravy",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "locus",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "wider",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "breed",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "quite",
+            "zipf_freq": 5.29
+        },
+        {
+            "word": "chafe",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "cache",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "blimp",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "deign",
+            "zipf_freq": 2.26
+        },
+        {
+            "word": "fiend",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "logic",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "cheap",
+            "zipf_freq": 4.71
+        },
+        {
+            "word": "elide",
+            "zipf_freq": 1.75
+        },
+        {
+            "word": "rigid",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "false",
+            "zipf_freq": 4.63
+        },
+        {
+            "word": "renal",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "pence",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "rowdy",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "shoot",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "blaze",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "envoy",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "posse",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "brief",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "never",
+            "zipf_freq": 5.91
+        },
+        {
+            "word": "abort",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "mouse",
+            "zipf_freq": 4.31
+        },
+        {
+            "word": "mucky",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "sulky",
+            "zipf_freq": 2.33
+        },
+        {
+            "word": "fiery",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "media",
+            "zipf_freq": 5.3
+        },
+        {
+            "word": "trunk",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "yeast",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "clear",
+            "zipf_freq": 5.25
+        },
+        {
+            "word": "skunk",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "scalp",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "bitty",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "cider",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "koala",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "duvet",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "segue",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "creme",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "super",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "grill",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "after",
+            "zipf_freq": 6.11
+        },
+        {
+            "word": "owner",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "ember",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "reach",
+            "zipf_freq": 4.94
+        },
+        {
+            "word": "nobly",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "empty",
+            "zipf_freq": 4.59
+        },
+        {
+            "word": "speed",
+            "zipf_freq": 5.0
+        },
+        {
+            "word": "gipsy",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "recur",
+            "zipf_freq": 2.65
+        },
+        {
+            "word": "smock",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "dread",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "merge",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "burst",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "kappa",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "amity",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "shaky",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "hover",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "carol",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "snort",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "synod",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "faint",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "haunt",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "flour",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "chair",
+            "zipf_freq": 4.69
+        },
+        {
+            "word": "detox",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "shrew",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "tense",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "plied",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "quark",
+            "zipf_freq": 3.05
+        },
+        {
+            "word": "burly",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "novel",
+            "zipf_freq": 4.63
+        },
+        {
+            "word": "waxen",
+            "zipf_freq": 1.69
+        },
+        {
+            "word": "stoic",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "jerky",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "blitz",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "beefy",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "lyric",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "hussy",
+            "zipf_freq": 2.17
+        },
+        {
+            "word": "towel",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "quilt",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "below",
+            "zipf_freq": 5.05
+        },
+        {
+            "word": "bingo",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "wispy",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "brash",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "scone",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "toast",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "easel",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "saucy",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "value",
+            "zipf_freq": 5.15
+        },
+        {
+            "word": "spice",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "honor",
+            "zipf_freq": 4.69
+        },
+        {
+            "word": "route",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "sharp",
+            "zipf_freq": 4.48
+        },
+        {
+            "word": "bawdy",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "radii",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "skull",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "phony",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "issue",
+            "zipf_freq": 5.23
+        },
+        {
+            "word": "lager",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "swell",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "urine",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "gassy",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "trial",
+            "zipf_freq": 4.87
+        },
+        {
+            "word": "flora",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "upper",
+            "zipf_freq": 4.72
+        },
+        {
+            "word": "latch",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "wight",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "brick",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "retry",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "holly",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "decal",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "grass",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "shack",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "dogma",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "mover",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "defer",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "sober",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "optic",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "crier",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "vying",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "nomad",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "flute",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "hippo",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "shark",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "drier",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "obese",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "bugle",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "tawny",
+            "zipf_freq": 2.77
+        },
+        {
+            "word": "chalk",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "feast",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "ruddy",
+            "zipf_freq": 3.01
+        },
+        {
+            "word": "pedal",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "scarf",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "cruel",
+            "zipf_freq": 4.12
+        },
+        {
+            "word": "bleat",
+            "zipf_freq": 2.12
+        },
+        {
+            "word": "tidal",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "slush",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "semen",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "windy",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "dusty",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "sally",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "igloo",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "nerdy",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "jewel",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "shone",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "whale",
+            "zipf_freq": 3.98
+        },
+        {
+            "word": "hymen",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "abuse",
+            "zipf_freq": 4.66
+        },
+        {
+            "word": "fugue",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "elbow",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "crumb",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "pansy",
+            "zipf_freq": 2.77
+        },
+        {
+            "word": "welsh",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "syrup",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "terse",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "suave",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "gamut",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "swung",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "drake",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "freed",
+            "zipf_freq": 3.85
+        },
+        {
+            "word": "afire",
+            "zipf_freq": 2.46
+        },
+        {
+            "word": "shirt",
+            "zipf_freq": 4.63
+        },
+        {
+            "word": "grout",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "oddly",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "tithe",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "plaid",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "dummy",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "broom",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "blind",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "torch",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "enemy",
+            "zipf_freq": 4.7
+        },
+        {
+            "word": "again",
+            "zipf_freq": 5.7
+        },
+        {
+            "word": "tying",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "pesky",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "alter",
+            "zipf_freq": 4.05
+        },
+        {
+            "word": "gazer",
+            "zipf_freq": 1.96
+        },
+        {
+            "word": "noble",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "ethos",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "bride",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "extol",
+            "zipf_freq": 2.3
+        },
+        {
+            "word": "decor",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "hobby",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "beast",
+            "zipf_freq": 4.29
+        },
+        {
+            "word": "idiom",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "utter",
+            "zipf_freq": 3.85
+        },
+        {
+            "word": "these",
+            "zipf_freq": 6.04
+        },
+        {
+            "word": "sixth",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "alarm",
+            "zipf_freq": 4.28
+        },
+        {
+            "word": "erase",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "elegy",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "spunk",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "piper",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "scaly",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "scold",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "hefty",
+            "zipf_freq": 3.36
+        },
+        {
+            "word": "chick",
+            "zipf_freq": 4.08
+        },
+        {
+            "word": "sooty",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "canal",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "whiny",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "slash",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "quake",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "joint",
+            "zipf_freq": 4.71
+        },
+        {
+            "word": "swept",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "prude",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "heavy",
+            "zipf_freq": 4.96
+        },
+        {
+            "word": "wield",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "femme",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "lasso",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "maize",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "shale",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "screw",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "spree",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "smoky",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "whiff",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "scent",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "glade",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "spent",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "prism",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "stoke",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "riper",
+            "zipf_freq": 1.95
+        },
+        {
+            "word": "orbit",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "cocoa",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "guilt",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "humus",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "shush",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "table",
+            "zipf_freq": 5.05
+        },
+        {
+            "word": "smirk",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "wrong",
+            "zipf_freq": 5.39
+        },
+        {
+            "word": "noisy",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "alert",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "shiny",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "elate",
+            "zipf_freq": 1.33
+        },
+        {
+            "word": "resin",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "whole",
+            "zipf_freq": 5.46
+        },
+        {
+            "word": "hunch",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "pixel",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "polar",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "hotel",
+            "zipf_freq": 4.95
+        },
+        {
+            "word": "sword",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "cleat",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "mango",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "rumba",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "puffy",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "filly",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "billy",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "leash",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "clout",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "dance",
+            "zipf_freq": 4.93
+        },
+        {
+            "word": "ovate",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "facet",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "chili",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "paint",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "liner",
+            "zipf_freq": 3.75
+        },
+        {
+            "word": "curio",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "salty",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "audio",
+            "zipf_freq": 4.47
+        },
+        {
+            "word": "snake",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "fable",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "cloak",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "navel",
+            "zipf_freq": 2.95
+        },
+        {
+            "word": "spurt",
+            "zipf_freq": 2.84
+        },
+        {
+            "word": "pesto",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "balmy",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "flash",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "unwed",
+            "zipf_freq": 2.52
+        },
+        {
+            "word": "early",
+            "zipf_freq": 5.43
+        },
+        {
+            "word": "churn",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "weedy",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "stump",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "lease",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "witty",
+            "zipf_freq": 3.56
+        },
+        {
+            "word": "wimpy",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "spoof",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "saner",
+            "zipf_freq": 2.25
+        },
+        {
+            "word": "blend",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "salsa",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "thick",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "warty",
+            "zipf_freq": 2.08
+        },
+        {
+            "word": "manic",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "blare",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "squib",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "spoon",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "probe",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "crepe",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "knack",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "force",
+            "zipf_freq": 5.23
+        },
+        {
+            "word": "debut",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "order",
+            "zipf_freq": 5.49
+        },
+        {
+            "word": "haste",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "teeth",
+            "zipf_freq": 4.58
+        },
+        {
+            "word": "agent",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "widen",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "icily",
+            "zipf_freq": 1.64
+        },
+        {
+            "word": "slice",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "ingot",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "clash",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "juror",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "blood",
+            "zipf_freq": 5.1
+        },
+        {
+            "word": "abode",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "throw",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "unity",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "pivot",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "slept",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "troop",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "spare",
+            "zipf_freq": 4.28
+        },
+        {
+            "word": "sewer",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "parse",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "morph",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "cacti",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "tacky",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "spool",
+            "zipf_freq": 2.84
+        },
+        {
+            "word": "demon",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "moody",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "annex",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "begin",
+            "zipf_freq": 4.84
+        },
+        {
+            "word": "fuzzy",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "patch",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "water",
+            "zipf_freq": 5.52
+        },
+        {
+            "word": "lumpy",
+            "zipf_freq": 2.84
+        },
+        {
+            "word": "admin",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "omega",
+            "zipf_freq": 3.78
+        },
+        {
+            "word": "limit",
+            "zipf_freq": 4.7
+        },
+        {
+            "word": "tabby",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "macho",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "aisle",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "skiff",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "basis",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "plank",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "verge",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "botch",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "crawl",
+            "zipf_freq": 3.77
+        },
+        {
+            "word": "lousy",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "slain",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "cubic",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "raise",
+            "zipf_freq": 4.75
+        },
+        {
+            "word": "wrack",
+            "zipf_freq": 2.21
+        },
+        {
+            "word": "guide",
+            "zipf_freq": 4.75
+        },
+        {
+            "word": "foist",
+            "zipf_freq": 2.14
+        },
+        {
+            "word": "cameo",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "under",
+            "zipf_freq": 5.73
+        },
+        {
+            "word": "actor",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "revue",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "fraud",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "harpy",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "scoop",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "climb",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "refer",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "olden",
+            "zipf_freq": 2.84
+        },
+        {
+            "word": "clerk",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "debar",
+            "zipf_freq": 1.96
+        },
+        {
+            "word": "tally",
+            "zipf_freq": 3.62
+        },
+        {
+            "word": "ethic",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "cairn",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "tulle",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "ghoul",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "hilly",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "crude",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "apart",
+            "zipf_freq": 4.78
+        },
+        {
+            "word": "scale",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "older",
+            "zipf_freq": 4.92
+        },
+        {
+            "word": "plain",
+            "zipf_freq": 4.43
+        },
+        {
+            "word": "sperm",
+            "zipf_freq": 3.84
+        },
+        {
+            "word": "briny",
+            "zipf_freq": 2.2
+        },
+        {
+            "word": "abbot",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "rerun",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "quest",
+            "zipf_freq": 4.27
+        },
+        {
+            "word": "crisp",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "bound",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "befit",
+            "zipf_freq": 2.07
+        },
+        {
+            "word": "drawn",
+            "zipf_freq": 4.53
+        },
+        {
+            "word": "suite",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "itchy",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "cheer",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "bagel",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "guess",
+            "zipf_freq": 5.17
+        },
+        {
+            "word": "broad",
+            "zipf_freq": 4.53
+        },
+        {
+            "word": "axiom",
+            "zipf_freq": 3.02
+        },
+        {
+            "word": "chard",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "caput",
+            "zipf_freq": 2.08
+        },
+        {
+            "word": "leant",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "harsh",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "curse",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "proud",
+            "zipf_freq": 4.78
+        },
+        {
+            "word": "swing",
+            "zipf_freq": 4.34
+        },
+        {
+            "word": "opine",
+            "zipf_freq": 2.3
+        },
+        {
+            "word": "taste",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "lupus",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "gumbo",
+            "zipf_freq": 2.7
+        },
+        {
+            "word": "miner",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "green",
+            "zipf_freq": 5.13
+        },
+        {
+            "word": "chasm",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "lipid",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "topic",
+            "zipf_freq": 4.49
+        },
+        {
+            "word": "armor",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "brush",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "crane",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "mural",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "abled",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "habit",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "bossy",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "maker",
+            "zipf_freq": 4.23
+        },
+        {
+            "word": "dusky",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "dizzy",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "lithe",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "brook",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "jazzy",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "fifty",
+            "zipf_freq": 4.29
+        },
+        {
+            "word": "sense",
+            "zipf_freq": 5.19
+        },
+        {
+            "word": "giant",
+            "zipf_freq": 4.62
+        },
+        {
+            "word": "surly",
+            "zipf_freq": 2.85
+        },
+        {
+            "word": "legal",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "fatal",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "flunk",
+            "zipf_freq": 2.17
+        },
+        {
+            "word": "began",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "prune",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "small",
+            "zipf_freq": 5.51
+        },
+        {
+            "word": "slant",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "scoff",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "torus",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "ninny",
+            "zipf_freq": 1.93
+        },
+        {
+            "word": "covey",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "viper",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "taken",
+            "zipf_freq": 5.33
+        },
+        {
+            "word": "moral",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "vogue",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "owing",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "token",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "entry",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "booth",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "voter",
+            "zipf_freq": 4.11
+        },
+        {
+            "word": "chide",
+            "zipf_freq": 2.18
+        },
+        {
+            "word": "elfin",
+            "zipf_freq": 2.26
+        },
+        {
+            "word": "ebony",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "neigh",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "minim",
+            "zipf_freq": 1.99
+        },
+        {
+            "word": "melon",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "kneed",
+            "zipf_freq": 2.44
+        },
+        {
+            "word": "decoy",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "voila",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "ankle",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "arrow",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "mushy",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "tribe",
+            "zipf_freq": 4.12
+        },
+        {
+            "word": "cease",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "eager",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "birth",
+            "zipf_freq": 4.77
+        },
+        {
+            "word": "graph",
+            "zipf_freq": 4.05
+        },
+        {
+            "word": "odder",
+            "zipf_freq": 2.1
+        },
+        {
+            "word": "terra",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "weird",
+            "zipf_freq": 4.81
+        },
+        {
+            "word": "tried",
+            "zipf_freq": 5.16
+        },
+        {
+            "word": "clack",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "color",
+            "zipf_freq": 4.91
+        },
+        {
+            "word": "rough",
+            "zipf_freq": 4.49
+        },
+        {
+            "word": "weigh",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "uncut",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "ladle",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "strip",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "craft",
+            "zipf_freq": 4.3
+        },
+        {
+            "word": "minus",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "dicey",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "titan",
+            "zipf_freq": 3.69
+        },
+        {
+            "word": "lucid",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "vicar",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "dress",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "ditch",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "gypsy",
+            "zipf_freq": 3.55
+        },
+        {
+            "word": "pasta",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "taffy",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "flame",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "swoop",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "aloof",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "sight",
+            "zipf_freq": 4.54
+        },
+        {
+            "word": "broke",
+            "zipf_freq": 4.85
+        },
+        {
+            "word": "teary",
+            "zipf_freq": 2.84
+        },
+        {
+            "word": "chart",
+            "zipf_freq": 4.47
+        },
+        {
+            "word": "sixty",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "wordy",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "sheer",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "leper",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "nosey",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "bulge",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "savor",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "clamp",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "funky",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "foamy",
+            "zipf_freq": 2.41
+        },
+        {
+            "word": "toxic",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "brand",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "plumb",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "dingy",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "butte",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "drill",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "tripe",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "bicep",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "tenor",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "krill",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "worse",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "drama",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "hyena",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "think",
+            "zipf_freq": 6.08
+        },
+        {
+            "word": "ratio",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "cobra",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "basil",
+            "zipf_freq": 3.65
+        },
+        {
+            "word": "scrum",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "bused",
+            "zipf_freq": 2.11
+        },
+        {
+            "word": "phone",
+            "zipf_freq": 5.3
+        },
+        {
+            "word": "court",
+            "zipf_freq": 5.41
+        },
+        {
+            "word": "camel",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "proof",
+            "zipf_freq": 4.7
+        },
+        {
+            "word": "heard",
+            "zipf_freq": 5.27
+        },
+        {
+            "word": "angel",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "petal",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "pouty",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "throb",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "maybe",
+            "zipf_freq": 5.45
+        },
+        {
+            "word": "fetal",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "sprig",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "spine",
+            "zipf_freq": 3.93
+        },
+        {
+            "word": "shout",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "cadet",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "macro",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "dodgy",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "satyr",
+            "zipf_freq": 2.47
+        },
+        {
+            "word": "rarer",
+            "zipf_freq": 3.05
+        },
+        {
+            "word": "binge",
+            "zipf_freq": 3.6
+        },
+        {
+            "word": "trend",
+            "zipf_freq": 4.51
+        },
+        {
+            "word": "nutty",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "leapt",
+            "zipf_freq": 3.05
+        },
+        {
+            "word": "amiss",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "split",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "myrrh",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "width",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "sonar",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "tower",
+            "zipf_freq": 4.5
+        },
+        {
+            "word": "baron",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "fever",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "waver",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "spark",
+            "zipf_freq": 3.99
+        },
+        {
+            "word": "belie",
+            "zipf_freq": 2.45
+        },
+        {
+            "word": "sloop",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "expel",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "smote",
+            "zipf_freq": 2.3
+        },
+        {
+            "word": "baler",
+            "zipf_freq": 2.26
+        },
+        {
+            "word": "above",
+            "zipf_freq": 5.2
+        },
+        {
+            "word": "north",
+            "zipf_freq": 5.34
+        },
+        {
+            "word": "wafer",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "scant",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "frill",
+            "zipf_freq": 2.31
+        },
+        {
+            "word": "awash",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "snack",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "scowl",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "frail",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "drift",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "limbo",
+            "zipf_freq": 3.31
+        },
+        {
+            "word": "fence",
+            "zipf_freq": 4.21
+        },
+        {
+            "word": "motel",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "ounce",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "wreak",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "revel",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "talon",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "prior",
+            "zipf_freq": 4.85
+        },
+        {
+            "word": "knelt",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "cello",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "flake",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "debug",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "anode",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "crime",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "salve",
+            "zipf_freq": 2.81
+        },
+        {
+            "word": "scout",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "imbue",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "pinky",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "stave",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "vague",
+            "zipf_freq": 3.87
+        },
+        {
+            "word": "chock",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "fight",
+            "zipf_freq": 5.23
+        },
+        {
+            "word": "video",
+            "zipf_freq": 5.43
+        },
+        {
+            "word": "stone",
+            "zipf_freq": 4.8
+        },
+        {
+            "word": "teach",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "cleft",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "frost",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "prawn",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "booty",
+            "zipf_freq": 3.59
+        },
+        {
+            "word": "twist",
+            "zipf_freq": 4.22
+        },
+        {
+            "word": "apnea",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "stiff",
+            "zipf_freq": 3.9
+        },
+        {
+            "word": "plaza",
+            "zipf_freq": 3.91
+        },
+        {
+            "word": "ledge",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "tweak",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "board",
+            "zipf_freq": 5.24
+        },
+        {
+            "word": "grant",
+            "zipf_freq": 4.67
+        },
+        {
+            "word": "medic",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "bacon",
+            "zipf_freq": 4.15
+        },
+        {
+            "word": "cable",
+            "zipf_freq": 4.54
+        },
+        {
+            "word": "brawl",
+            "zipf_freq": 3.53
+        },
+        {
+            "word": "slunk",
+            "zipf_freq": 1.97
+        },
+        {
+            "word": "raspy",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "forum",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "drone",
+            "zipf_freq": 4.0
+        },
+        {
+            "word": "women",
+            "zipf_freq": 5.57
+        },
+        {
+            "word": "mucus",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "boast",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "toddy",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "coven",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "tumor",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "truer",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "wrath",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "stall",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "steam",
+            "zipf_freq": 4.52
+        },
+        {
+            "word": "axial",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "purer",
+            "zipf_freq": 2.53
+        },
+        {
+            "word": "daily",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "trail",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "niche",
+            "zipf_freq": 3.85
+        },
+        {
+            "word": "mealy",
+            "zipf_freq": 2.4
+        },
+        {
+            "word": "juice",
+            "zipf_freq": 4.36
+        },
+        {
+            "word": "nylon",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "plump",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "merry",
+            "zipf_freq": 3.83
+        },
+        {
+            "word": "flail",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "papal",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "wheat",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "berry",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "cower",
+            "zipf_freq": 2.55
+        },
+        {
+            "word": "erect",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "brute",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "leggy",
+            "zipf_freq": 2.48
+        },
+        {
+            "word": "snipe",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "sinew",
+            "zipf_freq": 2.33
+        },
+        {
+            "word": "skier",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "penny",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "jumpy",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "rally",
+            "zipf_freq": 4.34
+        },
+        {
+            "word": "umbra",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "scary",
+            "zipf_freq": 4.37
+        },
+        {
+            "word": "modem",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "gross",
+            "zipf_freq": 4.45
+        },
+        {
+            "word": "avian",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "greed",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "satin",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "tonic",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "parka",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "sniff",
+            "zipf_freq": 3.44
+        },
+        {
+            "word": "livid",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "stark",
+            "zipf_freq": 4.01
+        },
+        {
+            "word": "trump",
+            "zipf_freq": 4.93
+        },
+        {
+            "word": "giddy",
+            "zipf_freq": 3.22
+        },
+        {
+            "word": "reuse",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "taboo",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "avoid",
+            "zipf_freq": 4.87
+        },
+        {
+            "word": "quote",
+            "zipf_freq": 4.51
+        },
+        {
+            "word": "devil",
+            "zipf_freq": 4.3
+        },
+        {
+            "word": "liken",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "gloss",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "gayer",
+            "zipf_freq": 2.37
+        },
+        {
+            "word": "beret",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "noise",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "gland",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "dealt",
+            "zipf_freq": 4.2
+        },
+        {
+            "word": "sling",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "rumor",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "opera",
+            "zipf_freq": 4.27
+        },
+        {
+            "word": "thigh",
+            "zipf_freq": 3.73
+        },
+        {
+            "word": "tonga",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "flare",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "wound",
+            "zipf_freq": 4.24
+        },
+        {
+            "word": "white",
+            "zipf_freq": 5.51
+        },
+        {
+            "word": "bulky",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "etude",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "horse",
+            "zipf_freq": 4.76
+        },
+        {
+            "word": "circa",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "paddy",
+            "zipf_freq": 3.62
+        },
+        {
+            "word": "inbox",
+            "zipf_freq": 3.51
+        },
+        {
+            "word": "fizzy",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "grain",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "exert",
+            "zipf_freq": 3.36
+        },
+        {
+            "word": "surge",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "gleam",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "belle",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "salvo",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "crush",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "fruit",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "sappy",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "taker",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "tract",
+            "zipf_freq": 3.71
+        },
+        {
+            "word": "ovine",
+            "zipf_freq": 1.68
+        },
+        {
+            "word": "spiky",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "frank",
+            "zipf_freq": 4.75
+        },
+        {
+            "word": "reedy",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "filth",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "spasm",
+            "zipf_freq": 2.83
+        },
+        {
+            "word": "heave",
+            "zipf_freq": 2.9
+        },
+        {
+            "word": "mambo",
+            "zipf_freq": 2.78
+        },
+        {
+            "word": "right",
+            "zipf_freq": 5.96
+        },
+        {
+            "word": "clank",
+            "zipf_freq": 2.66
+        },
+        {
+            "word": "trust",
+            "zipf_freq": 5.13
+        },
+        {
+            "word": "lumen",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "borne",
+            "zipf_freq": 3.67
+        },
+        {
+            "word": "spook",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "sauce",
+            "zipf_freq": 4.3
+        },
+        {
+            "word": "amber",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "lathe",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "carat",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "corer",
+            "zipf_freq": 1.58
+        },
+        {
+            "word": "dirty",
+            "zipf_freq": 4.55
+        },
+        {
+            "word": "slyly",
+            "zipf_freq": 2.46
+        },
+        {
+            "word": "affix",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "alloy",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "taint",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "sheep",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "kinky",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "wooly",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "mauve",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "flung",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "yacht",
+            "zipf_freq": 3.82
+        },
+        {
+            "word": "fried",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "quail",
+            "zipf_freq": 3.13
+        },
+        {
+            "word": "brunt",
+            "zipf_freq": 3.12
+        },
+        {
+            "word": "grimy",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "curvy",
+            "zipf_freq": 3.15
+        },
+        {
+            "word": "cagey",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "rinse",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "deuce",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "state",
+            "zipf_freq": 5.78
+        },
+        {
+            "word": "grasp",
+            "zipf_freq": 3.97
+        },
+        {
+            "word": "milky",
+            "zipf_freq": 3.5
+        },
+        {
+            "word": "bison",
+            "zipf_freq": 3.26
+        },
+        {
+            "word": "graft",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "sandy",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "baste",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "flask",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "hedge",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "girly",
+            "zipf_freq": 3.23
+        },
+        {
+            "word": "swash",
+            "zipf_freq": 2.21
+        },
+        {
+            "word": "boney",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "coupe",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "endow",
+            "zipf_freq": 2.43
+        },
+        {
+            "word": "abhor",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "welch",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "blade",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "tight",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "geese",
+            "zipf_freq": 3.35
+        },
+        {
+            "word": "miser",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "mirth",
+            "zipf_freq": 2.62
+        },
+        {
+            "word": "cloud",
+            "zipf_freq": 4.46
+        },
+        {
+            "word": "cabal",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "leech",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "close",
+            "zipf_freq": 5.36
+        },
+        {
+            "word": "tenth",
+            "zipf_freq": 3.92
+        },
+        {
+            "word": "pecan",
+            "zipf_freq": 2.93
+        },
+        {
+            "word": "droit",
+            "zipf_freq": 2.5
+        },
+        {
+            "word": "grail",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "clone",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "guise",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "ralph",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "tango",
+            "zipf_freq": 3.58
+        },
+        {
+            "word": "biddy",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "smith",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "mower",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "payee",
+            "zipf_freq": 2.29
+        },
+        {
+            "word": "serif",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "drape",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "fifth",
+            "zipf_freq": 4.78
+        },
+        {
+            "word": "spank",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "glaze",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "allot",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "truck",
+            "zipf_freq": 4.64
+        },
+        {
+            "word": "kayak",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "virus",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "testy",
+            "zipf_freq": 2.54
+        },
+        {
+            "word": "tepee",
+            "zipf_freq": 2.03
+        },
+        {
+            "word": "fully",
+            "zipf_freq": 4.89
+        },
+        {
+            "word": "zonal",
+            "zipf_freq": 2.74
+        },
+        {
+            "word": "metro",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "curry",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "grand",
+            "zipf_freq": 4.91
+        },
+        {
+            "word": "banjo",
+            "zipf_freq": 3.27
+        },
+        {
+            "word": "axion",
+            "zipf_freq": 1.93
+        },
+        {
+            "word": "bezel",
+            "zipf_freq": 2.8
+        },
+        {
+            "word": "occur",
+            "zipf_freq": 4.47
+        },
+        {
+            "word": "chain",
+            "zipf_freq": 4.65
+        },
+        {
+            "word": "nasal",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "gooey",
+            "zipf_freq": 2.86
+        },
+        {
+            "word": "filer",
+            "zipf_freq": 2.45
+        },
+        {
+            "word": "brace",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "allay",
+            "zipf_freq": 2.69
+        },
+        {
+            "word": "pubic",
+            "zipf_freq": 3.07
+        },
+        {
+            "word": "raven",
+            "zipf_freq": 3.79
+        },
+        {
+            "word": "plead",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "gnash",
+            "zipf_freq": 2.03
+        },
+        {
+            "word": "flaky",
+            "zipf_freq": 2.87
+        },
+        {
+            "word": "munch",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "dully",
+            "zipf_freq": 1.87
+        },
+        {
+            "word": "eking",
+            "zipf_freq": 1.94
+        },
+        {
+            "word": "thing",
+            "zipf_freq": 5.72
+        },
+        {
+            "word": "slink",
+            "zipf_freq": 2.38
+        },
+        {
+            "word": "hurry",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "theft",
+            "zipf_freq": 4.13
+        },
+        {
+            "word": "shorn",
+            "zipf_freq": 2.53
+        },
+        {
+            "word": "pygmy",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "ranch",
+            "zipf_freq": 4.03
+        },
+        {
+            "word": "wring",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "lemon",
+            "zipf_freq": 4.1
+        },
+        {
+            "word": "shore",
+            "zipf_freq": 4.33
+        },
+        {
+            "word": "mamma",
+            "zipf_freq": 3.32
+        },
+        {
+            "word": "froze",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "newer",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "style",
+            "zipf_freq": 5.11
+        },
+        {
+            "word": "moose",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "antic",
+            "zipf_freq": 2.33
+        },
+        {
+            "word": "drown",
+            "zipf_freq": 3.68
+        },
+        {
+            "word": "vegan",
+            "zipf_freq": 3.95
+        },
+        {
+            "word": "chess",
+            "zipf_freq": 3.94
+        },
+        {
+            "word": "guppy",
+            "zipf_freq": 2.49
+        },
+        {
+            "word": "union",
+            "zipf_freq": 5.08
+        },
+        {
+            "word": "lever",
+            "zipf_freq": 3.64
+        },
+        {
+            "word": "lorry",
+            "zipf_freq": 3.21
+        },
+        {
+            "word": "image",
+            "zipf_freq": 4.94
+        },
+        {
+            "word": "cabby",
+            "zipf_freq": 1.95
+        },
+        {
+            "word": "druid",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "exact",
+            "zipf_freq": 4.51
+        },
+        {
+            "word": "truth",
+            "zipf_freq": 5.05
+        },
+        {
+            "word": "dopey",
+            "zipf_freq": 2.68
+        },
+        {
+            "word": "spear",
+            "zipf_freq": 3.7
+        },
+        {
+            "word": "cried",
+            "zipf_freq": 4.19
+        },
+        {
+            "word": "chime",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "crony",
+            "zipf_freq": 2.73
+        },
+        {
+            "word": "stunk",
+            "zipf_freq": 2.39
+        },
+        {
+            "word": "timid",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "batch",
+            "zipf_freq": 3.91
+        },
+        {
+            "word": "gauge",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "rotor",
+            "zipf_freq": 3.42
+        },
+        {
+            "word": "crack",
+            "zipf_freq": 4.41
+        },
+        {
+            "word": "curve",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "latte",
+            "zipf_freq": 3.3
+        },
+        {
+            "word": "witch",
+            "zipf_freq": 4.11
+        },
+        {
+            "word": "bunch",
+            "zipf_freq": 4.57
+        },
+        {
+            "word": "repel",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "anvil",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "soapy",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "meter",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "broth",
+            "zipf_freq": 3.39
+        },
+        {
+            "word": "madly",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "dried",
+            "zipf_freq": 4.04
+        },
+        {
+            "word": "scene",
+            "zipf_freq": 4.97
+        },
+        {
+            "word": "known",
+            "zipf_freq": 5.39
+        },
+        {
+            "word": "magma",
+            "zipf_freq": 3.19
+        },
+        {
+            "word": "roost",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "woman",
+            "zipf_freq": 5.35
+        },
+        {
+            "word": "thong",
+            "zipf_freq": 3.16
+        },
+        {
+            "word": "punch",
+            "zipf_freq": 4.32
+        },
+        {
+            "word": "pasty",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "downy",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "knead",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "whirl",
+            "zipf_freq": 2.96
+        },
+        {
+            "word": "rapid",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "clang",
+            "zipf_freq": 2.63
+        },
+        {
+            "word": "anger",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "drive",
+            "zipf_freq": 5.13
+        },
+        {
+            "word": "goofy",
+            "zipf_freq": 3.57
+        },
+        {
+            "word": "email",
+            "zipf_freq": 4.68
+        },
+        {
+            "word": "music",
+            "zipf_freq": 5.52
+        },
+        {
+            "word": "stuff",
+            "zipf_freq": 5.14
+        },
+        {
+            "word": "bleep",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "rider",
+            "zipf_freq": 4.02
+        },
+        {
+            "word": "mecca",
+            "zipf_freq": 3.38
+        },
+        {
+            "word": "folio",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "setup",
+            "zipf_freq": 4.09
+        },
+        {
+            "word": "verso",
+            "zipf_freq": 2.72
+        },
+        {
+            "word": "quash",
+            "zipf_freq": 2.75
+        },
+        {
+            "word": "fauna",
+            "zipf_freq": 3.52
+        },
+        {
+            "word": "gummy",
+            "zipf_freq": 2.97
+        },
+        {
+            "word": "happy",
+            "zipf_freq": 5.35
+        },
+        {
+            "word": "newly",
+            "zipf_freq": 4.42
+        },
+        {
+            "word": "fussy",
+            "zipf_freq": 3.04
+        },
+        {
+            "word": "relic",
+            "zipf_freq": 3.37
+        },
+        {
+            "word": "guava",
+            "zipf_freq": 2.61
+        },
+        {
+            "word": "ratty",
+            "zipf_freq": 2.47
+        },
+        {
+            "word": "fudge",
+            "zipf_freq": 3.33
+        },
+        {
+            "word": "femur",
+            "zipf_freq": 3.0
+        },
+        {
+            "word": "chirp",
+            "zipf_freq": 2.79
+        },
+        {
+            "word": "forte",
+            "zipf_freq": 3.24
+        },
+        {
+            "word": "alibi",
+            "zipf_freq": 3.1
+        },
+        {
+            "word": "whine",
+            "zipf_freq": 3.28
+        },
+        {
+            "word": "petty",
+            "zipf_freq": 4.07
+        },
+        {
+            "word": "golly",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "plait",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "fleck",
+            "zipf_freq": 2.57
+        },
+        {
+            "word": "felon",
+            "zipf_freq": 3.17
+        },
+        {
+            "word": "gourd",
+            "zipf_freq": 2.82
+        },
+        {
+            "word": "brown",
+            "zipf_freq": 5.01
+        },
+        {
+            "word": "thrum",
+            "zipf_freq": 1.97
+        },
+        {
+            "word": "ficus",
+            "zipf_freq": 2.42
+        },
+        {
+            "word": "stash",
+            "zipf_freq": 3.54
+        },
+        {
+            "word": "decry",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "wiser",
+            "zipf_freq": 3.48
+        },
+        {
+            "word": "junta",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "visor",
+            "zipf_freq": 2.98
+        },
+        {
+            "word": "daunt",
+            "zipf_freq": 2.04
+        },
+        {
+            "word": "scree",
+            "zipf_freq": 2.31
+        },
+        {
+            "word": "impel",
+            "zipf_freq": 2.36
+        },
+        {
+            "word": "await",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "press",
+            "zipf_freq": 5.16
+        },
+        {
+            "word": "whose",
+            "zipf_freq": 5.07
+        },
+        {
+            "word": "turbo",
+            "zipf_freq": 3.74
+        },
+        {
+            "word": "stoop",
+            "zipf_freq": 3.14
+        },
+        {
+            "word": "speak",
+            "zipf_freq": 5.03
+        },
+        {
+            "word": "mangy",
+            "zipf_freq": 2.1
+        },
+        {
+            "word": "eying",
+            "zipf_freq": 2.14
+        },
+        {
+            "word": "inlet",
+            "zipf_freq": 3.45
+        },
+        {
+            "word": "crone",
+            "zipf_freq": 2.6
+        },
+        {
+            "word": "pulse",
+            "zipf_freq": 4.06
+        },
+        {
+            "word": "mossy",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "staid",
+            "zipf_freq": 2.58
+        },
+        {
+            "word": "hence",
+            "zipf_freq": 4.38
+        },
+        {
+            "word": "pinch",
+            "zipf_freq": 3.76
+        },
+        {
+            "word": "teddy",
+            "zipf_freq": 3.88
+        },
+        {
+            "word": "sully",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "snore",
+            "zipf_freq": 2.76
+        },
+        {
+            "word": "ripen",
+            "zipf_freq": 2.64
+        },
+        {
+            "word": "snowy",
+            "zipf_freq": 3.46
+        },
+        {
+            "word": "attic",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "going",
+            "zipf_freq": 5.94
+        },
+        {
+            "word": "leach",
+            "zipf_freq": 3.25
+        },
+        {
+            "word": "mouth",
+            "zipf_freq": 4.83
+        },
+        {
+            "word": "hound",
+            "zipf_freq": 3.43
+        },
+        {
+            "word": "clump",
+            "zipf_freq": 2.94
+        },
+        {
+            "word": "tonal",
+            "zipf_freq": 3.09
+        },
+        {
+            "word": "bigot",
+            "zipf_freq": 3.18
+        },
+        {
+            "word": "peril",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "piece",
+            "zipf_freq": 5.04
+        },
+        {
+            "word": "blame",
+            "zipf_freq": 4.63
+        },
+        {
+            "word": "haute",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "spied",
+            "zipf_freq": 3.08
+        },
+        {
+            "word": "undid",
+            "zipf_freq": 2.53
+        },
+        {
+            "word": "intro",
+            "zipf_freq": 3.81
+        },
+        {
+            "word": "basal",
+            "zipf_freq": 3.4
+        },
+        {
+            "word": "shine",
+            "zipf_freq": 4.17
+        },
+        {
+            "word": "gecko",
+            "zipf_freq": 2.91
+        },
+        {
+            "word": "rodeo",
+            "zipf_freq": 3.47
+        },
+        {
+            "word": "guard",
+            "zipf_freq": 4.73
+        },
+        {
+            "word": "steer",
+            "zipf_freq": 3.72
+        },
+        {
+            "word": "loamy",
+            "zipf_freq": 2.22
+        },
+        {
+            "word": "scamp",
+            "zipf_freq": 2.32
+        },
+        {
+            "word": "scram",
+            "zipf_freq": 2.35
+        },
+        {
+            "word": "manly",
+            "zipf_freq": 3.66
+        },
+        {
+            "word": "hello",
+            "zipf_freq": 4.72
+        },
+        {
+            "word": "vaunt",
+            "zipf_freq": 1.39
+        },
+        {
+            "word": "organ",
+            "zipf_freq": 4.14
+        },
+        {
+            "word": "feral",
+            "zipf_freq": 3.29
+        },
+        {
+            "word": "knock",
+            "zipf_freq": 4.35
+        },
+        {
+            "word": "extra",
+            "zipf_freq": 4.98
+        },
+        {
+            "word": "condo",
+            "zipf_freq": 3.63
+        },
+        {
+            "word": "adapt",
+            "zipf_freq": 3.98
+        },
+        {
+            "word": "willy",
+            "zipf_freq": 3.61
+        },
+        {
+            "word": "polka",
+            "zipf_freq": 3.2
+        },
+        {
+            "word": "rayon",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "skirt",
+            "zipf_freq": 3.96
+        },
+        {
+            "word": "faith",
+            "zipf_freq": 4.82
+        },
+        {
+            "word": "torso",
+            "zipf_freq": 3.41
+        },
+        {
+            "word": "match",
+            "zipf_freq": 5.13
+        },
+        {
+            "word": "mercy",
+            "zipf_freq": 4.25
+        },
+        {
+            "word": "tepid",
+            "zipf_freq": 2.71
+        },
+        {
+            "word": "sleek",
+            "zipf_freq": 3.34
+        },
+        {
+            "word": "riser",
+            "zipf_freq": 2.88
+        },
+        {
+            "word": "twixt",
+            "zipf_freq": 2.08
+        },
+        {
+            "word": "peace",
+            "zipf_freq": 5.02
+        },
+        {
+            "word": "flush",
+            "zipf_freq": 3.8
+        },
+        {
+            "word": "catty",
+            "zipf_freq": 2.56
+        },
+        {
+            "word": "login",
+            "zipf_freq": 3.49
+        },
+        {
+            "word": "eject",
+            "zipf_freq": 2.99
+        },
+        {
+            "word": "roger",
+            "zipf_freq": 4.39
+        },
+        {
+            "word": "rival",
+            "zipf_freq": 4.18
+        },
+        {
+            "word": "untie",
+            "zipf_freq": 2.51
+        },
+        {
+            "word": "refit",
+            "zipf_freq": 2.67
+        },
+        {
+            "word": "aorta",
+            "zipf_freq": 2.92
+        },
+        {
+            "word": "adult",
+            "zipf_freq": 4.8
+        },
+        {
+            "word": "judge",
+            "zipf_freq": 4.95
+        },
+        {
+            "word": "rower",
+            "zipf_freq": 3.11
+        },
+        {
+            "word": "artsy",
+            "zipf_freq": 2.89
+        },
+        {
+            "word": "rural",
+            "zipf_freq": 4.59
+        },
+        {
+            "word": "shave",
+            "zipf_freq": 3.83
+        }
+    ]
+}

@@ -2,6 +2,15 @@
 <html>
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0E422M1LQE"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-0E422M1LQE');
+	</script>
 	<meta content="text/html;charset=UTF-8, width=device-width, initial-scale=1.0" , http-equiv="Content-Type">
 	<!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
 	<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
@@ -79,11 +88,13 @@
 			maxlength="5">
 	</form>
 	<p><button class="submit_button" id="submit_button">Submit</button></p>
-	Odds of guessing the word are 1 in <label id="results_value">00</label>
+	<h3>Odds of guessing the word are</h3><br>
+	<div style="font-size: x-large;">1 in <label id="results_value">00</label> of the correct answers.</div>
 	<br>
-	Word Frequency Results (up to 50)<br>
 	<br>
-	<div style="font-size: x-large; text-align: center; height: 200px; overflow: auto;" id="word_freq_results">
+	<h3>Word Frequency Results (up to 50)</h3><br>
+	<br>
+	<div style="margin-left: auto; margin-right: auto; font-size: x-large; text-align: center; width: 150px; align-self: center; height: 200px; overflow: auto;" id="word_freq_results">
 		<table id="freq_table"></table>
 	</div>
 	<br>
