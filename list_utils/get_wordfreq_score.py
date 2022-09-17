@@ -2,7 +2,7 @@ from wordfreq import zipf_frequency as zf
 import json
 
 data = {'answers':[]}
-with open("from_nyt.json") as f:
+with open("answers_from_nyt.json") as f:
     words = json.load(f)
     for w in words["answers"]:
         data["answers"].append({'word':w, 'zipf_freq':zf(w, 'en')})

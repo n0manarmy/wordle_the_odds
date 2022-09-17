@@ -1,8 +1,7 @@
 #!/bin/bash
+echo wasm-pack build --release --target web
 wasm-pack build --release --target web
-cp -r index.html interface.js style.css pkg /home/user/public/
-
-(cd ~/ && firebase deploy)
-
-#echo run ""firebase deploy"" from ~
-#/
+echo cp -r index.html interface.js style.css pkg ./deploy/
+cp -r index.html interface.js style.css pkg ./deploy/
+echo (cd ./deploy/ && firebase deploy)
+(cd ./deploy/ && firebase deploy)

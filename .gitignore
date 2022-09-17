@@ -1,5 +1,14 @@
 /target
+/deploy
+/pkg
 start_python_wasm.py
+list_utils/answers_from_nyt.json
+list_utils/answers_scored.json
+list_utils/incorrect_from_nyt.json
 list_utils/words.json
-list_utils/from_nyt.json
 src/words.rs
+.firebase
+.firebaserc
+firebase.json
+list_utils/answers_from_nyt.json
+list_utils/incorrect_from_nyt.json

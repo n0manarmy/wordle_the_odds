@@ -1,2 +1,2 @@
 wasm-pack build --target web
-python -m http.server
+python3 -m http.server
